@@ -1,3 +1,5 @@
+const crypto = require('crypto')
+
 const User = require('../models/user')
 const ErrorHandler = require('../utils/errorHandler')
 const catchAsyncErrors = require('../middleware/catchAsyncErrors')
@@ -91,8 +93,6 @@ exports.forgotPassword = catchAsyncErrors(async(req, res, next) => {
         await user.save({validateBeforeSave: false})
         return next(new ErrorHandler(error.message, 500))
     }
-    
-
 })
 
 // Logout user => /api/v1/logout
@@ -107,5 +107,51 @@ exports.logout = catchAsyncErrors( async (req, res, next) => {
     res.status(200).json({
         success: true,
         message: "Logged out"
+    })
+})
+
+// Reset password => /api/v1/password/reset/:token
+exports.resetPassword = catchAsyncErrors(async(req, res, next) => {
+
+    // Hash url token to check if it is correct
+    const resetPasswordToken = crypto.createHash('sha256').update(req.params.token).digest('hex')
+
+    // Find the user with the resetPasswordToken and make sure that the token is not expired
+    const user = await User.findOne({
+        resetPasswordToken,
+        resetPasswordExpire: {$gt: Date.now()}
+    })
+
+    console.log(resetPasswordToken)
+
+
+    if(!user){
+        return next(new ErrorHandler('Password token is invalid or expired'), 400)
+    }
+
+    // check if the password matches the confirm password
+    if(req.body.password !== req.body.confirmPassword){
+        return next(new ErrorHandler('Password does not match'), 400)
+    }
+
+    // Setup new password
+    user.password = req.body.password
+
+    user.resetPasswordToken = undefined
+    user.resetPasswordExpire = undefined
+    
+    await user.save()
+
+    sendToken(user, 200, res)
+})
+
+// Get user that is currently logged in => api/v1/me
+exports.getUserProfile = catchAsyncErrors(async(req, res, next) => {
+    // get user id
+    const user = await User.findById(req.user.id)
+
+    res.status(200).json({
+        success: true,
+        user
     })
 })
