@@ -21,7 +21,7 @@ exports.newProduct = catchAsyncErrors (async (req, res, next) => {
 // Get all products => /api/v1/products/new?keyword=apple
 exports.getProducts = catchAsyncErrors (async (req, res, next) => {
 
-    // definie how many products are shown per page
+    // define how many products are shown per page
     const resultsPerPage = 4
     // Keeps the total number of products in the database
     const productCount = await Product.countDocuments()
@@ -98,4 +98,48 @@ exports.deleteProduct = catchAsyncErrors (async(req, res, next) => {
         success:true,
         message: 'Product is deleted.'
     })
+})
+
+// Create new review => /api/v1/review
+exports.createProductReview = catchAsyncErrors (async(req, res, next) => {
+    const {rating, comment, productId} = req.body
+
+    const review = {
+        user: req.user._id,
+        name: req.user.name,
+        rating: Number(rating),
+        comment
+    }
+
+    const product = await Product.findById(productId)
+
+    // Check if the user already left a review
+    const isReviewed = product.reviews.find(
+        review => review.user.toString() === req.user._id.toString()
+    )
+
+    if(isReviewed){
+       // Need to update the review is the user already left a review 
+        product.reviews.forEach(review => {
+            if(review.user.toString() === req.user._id.toString()){
+                review.comment = comment.body
+                review.rating = rating
+            }
+        })
+    }
+    else {
+        // push the review and update the number of reviews
+        product.reviews.push(review)
+        product.numOfReviews = product.reviews.length
+    }
+
+    // calculate the overall rating
+    product.ratings = product.reviews.reduce((acc, item) => item.rating + acc, 0) / product.reviews.length
+
+    await product.save({validateBeforeSave: false})
+
+    res.status(200).json({
+        success: true
+    })
+
 })
