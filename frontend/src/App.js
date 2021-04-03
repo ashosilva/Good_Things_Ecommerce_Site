@@ -7,11 +7,13 @@ import Home from './components/Home'
 function App() {
   return (
     <Router>
-    <div className="App">
-      <Header/>
-      <Home/>
-      <Footer/>
-    </div>
+      <div className="App">
+        <Header />
+        <div className="container container-fluid">
+          <Route exact path="/" component={Home} />
+        </div>
+        <Footer />
+      </div>
     </Router>
   );
 }
