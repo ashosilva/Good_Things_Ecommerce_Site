@@ -21,7 +21,7 @@ const Home = () => {
         if (error) {
             return alert.error(error)
         }
-        
+
         dispatch(getProducts())
 
 
@@ -42,7 +42,8 @@ const Home = () => {
                             ))}
 
                         </div>
-                    </section></Fragment>}
+                    </section>
+                </Fragment>}
         </Fragment>
     )
 }
