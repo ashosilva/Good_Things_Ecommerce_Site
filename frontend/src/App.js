@@ -2,8 +2,10 @@ import { BrowserRouter as Router, Route } from 'react-router-dom'
 
 import Header from './components/layout/Header'
 import Footer from './components/layout/Footer'
+
 import Home from './components/Home'
 import About from './components/About'
+import ProductDetails from './components/product/ProductDetails'
 
 function App() {
   return (
@@ -13,6 +15,7 @@ function App() {
         <div className="container container-fluid">
           <Route exact path="/" component={Home} />
           <Route exact path="/about" component={About} />
+          <Route exact path="/product/:id" component={ProductDetails} />
         </div>
         <Footer />
       </div>
@@ -21,3 +24,5 @@ function App() {
 }
 
 export default App;
+
+
