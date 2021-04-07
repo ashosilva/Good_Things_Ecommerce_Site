@@ -1,4 +1,5 @@
 import React , {Fragment}from 'react'
+import { NavLink } from "react-router-dom"
 
 import '../../App.css'
 
@@ -8,7 +9,9 @@ const Header = () => {
                 <nav className="navbar row">
       <div className="col-12 col-md-3">
         <div className="navbar-brand">
-          <img src="/images/good-things-logo.png" />
+          <NavLink to="/" exact>
+            <img src="/images/good-things-logo.png" alt="logo" />
+          </NavLink>
         </div>
       </div>
 
@@ -34,6 +37,7 @@ const Header = () => {
         <span id="cart" className="ml-3">Cart</span>
         <span className="ml-1" id="cart_count">2</span>
       </div>
+      
     </nav>
         </Fragment>
     )
