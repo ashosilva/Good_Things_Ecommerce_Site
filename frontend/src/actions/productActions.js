@@ -11,13 +11,13 @@ import {
 } from '../constants/productConstants'
 
 // Get products from backend
-export const getProducts = () => async (dispatch) => {
+export const getProducts = (currentPage = 1) => async (dispatch) => {
     try {
         // Set the loading to true and products to empty array
         dispatch({ type: ALL_PRODUCTS_REQUEST })
 
         // send the request to the backend
-        const { data } = await axios.get(`/api/v1/products`)
+        const { data } = await axios.get(`/api/v1/products?page=${currentPage}`)
 
         dispatch({
             type: ALL_PRODUCTS_SUCCESS,
