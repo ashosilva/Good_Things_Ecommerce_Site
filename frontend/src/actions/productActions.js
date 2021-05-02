@@ -11,12 +11,16 @@ import {
 } from '../constants/productConstants'
 
 // Get products from backend
-export const getProducts = (keyword = '', currentPage = 1, price) => async (dispatch) => {
+export const getProducts = (keyword = '', currentPage = 1, price, category) => async (dispatch) => {
     try {
         // Set the loading to true and products to empty array
         dispatch({ type: ALL_PRODUCTS_REQUEST })
 
         let link = `/api/v1/products?keyword=${keyword}&page=${currentPage}&price[lte]=${price[1]}&price[gte]=${price[0]}`
+
+        if (category) {
+            link = `/api/v1/products?keyword=${keyword}&page=${currentPage}&price[lte]=${price[1]}&price[gte]=${price[0]}&category=${category}`
+        }
 
         // send the request to the backend
         const { data } = await axios.get(link)
