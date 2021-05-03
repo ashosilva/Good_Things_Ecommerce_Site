@@ -13,6 +13,7 @@ app.use(cookieParser())
 
 //setting up clodinary configuration
 cloudinary.config({
+    
 
 })
 
