@@ -78,8 +78,13 @@ const Login = ({ history, location }) => {
                                     LOGIN
                                 </button>
 
-                                <Link to="/password/forgot" className="float-left hover:text-yellow-500">Forgot Password</Link>
-                                <Link to="/register" className="float-right hover:text-yellow-500">Create Account</Link>
+                                <div className="flex justify-evenly">
+                                    <div><Link to="/password/forgot" className="underline hover:text-yellow-500">Forgot Password</Link></div>
+                                    <div>.</div>
+                                    <div><Link to="/register" className=" underline hover:text-yellow-500">Create Account</Link></div>
+                                </div>
+
+                                
                             </form>
                         </div>
                     </div>
