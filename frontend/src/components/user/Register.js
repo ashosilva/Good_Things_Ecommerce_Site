@@ -18,7 +18,7 @@ const Register = ({ history }) => {
     const { name, email, password } = user;
 
     const [avatar, setAvatar] = useState('')
-    const [avatarPreview, setAvatarPreview] = useState('/images/default_avatar.jpg')
+    const [avatarPreview, setAvatarPreview] = useState('/images/default_avatar.png')
 
     const alert = useAlert();
     const dispatch = useDispatch();
