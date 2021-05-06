@@ -64,6 +64,21 @@ exports.loginUser = catchAsyncErrors(async (req, res, next) => {
 
 })
 
+// Logout user => /api/v1/logout
+exports.logout = catchAsyncErrors(async (req, res, next) => {
+
+    // Delete the cookie
+    res.cookie('token', null, {
+        expires: new Date(Date.now()),
+        httpOnly: true
+    })
+
+    res.status(200).json({
+        success: true,
+        message: "Logged out"
+    })
+})
+
 // Forgot password => /api/v1/password/forgot
 exports.forgotPassword = catchAsyncErrors(async (req, res, next) => {
     // Get the email address
@@ -106,20 +121,7 @@ exports.forgotPassword = catchAsyncErrors(async (req, res, next) => {
     }
 })
 
-// Logout user => /api/v1/logout
-exports.logout = catchAsyncErrors(async (req, res, next) => {
 
-    // Delete the cookie
-    res.cookie('token', null, {
-        expires: new Date(Date.now()),
-        httpOnly: true
-    })
-
-    res.status(200).json({
-        success: true,
-        message: "Logged out"
-    })
-})
 
 // Reset password => /api/v1/password/reset/:token
 exports.resetPassword = catchAsyncErrors(async (req, res, next) => {
