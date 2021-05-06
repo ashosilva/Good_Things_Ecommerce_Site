@@ -1,11 +1,11 @@
 const express = require('express')
 const router = express.Router()
 
-const { 
-    registerUser, 
-    loginUser, 
-    logout, 
-    forgotPassword, 
+const {
+    registerUser,
+    loginUser,
+    logout,
+    forgotPassword,
     resetPassword,
     getUserProfile,
     updateProfile,
@@ -27,7 +27,7 @@ router.route('/login').post(loginUser)
 router.route('/logout').get(logout)
 
 router.route('/me').get(isAuthenticatedUser, getUserProfile)
-router.route('/me/update').get(isAuthenticatedUser, updateProfile)
+router.route('/me/update').put(isAuthenticatedUser, updateProfile)
 
 router.route('/password/forgot').post(forgotPassword)
 router.route('/password/reset/:token').put(resetPassword)

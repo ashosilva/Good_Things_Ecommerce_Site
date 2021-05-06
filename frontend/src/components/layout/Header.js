@@ -40,11 +40,9 @@ const Header = () => {
             <span className="ml-1" id="cart_count">2</span>
           </Link>
 
-
-
           {user ? (
             <div className="ml-4 dropdown d-inline">
-              <Link to="#!" className="btn text-yellow "
+              <Link to="#!" className="btn dropdown-toggle text-white mr-4"
                 type="button" id="dropDownMenuButton" data-toggle="dropdown"
                 aria-haspopup="true" aria-expanded="false">
 
@@ -56,8 +54,8 @@ const Header = () => {
                   />
                 </figure>
                 <span className="mb-6">{user && user.name}</span>
-
               </Link>
+
               <div className="dropdown-menu" aria-labelledby="dropDownMenuButton">
                 {user && user.role !== 'admin' ? (
                   <Link className="dropdown-item " to="/orders/me">Orders</Link>
