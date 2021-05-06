@@ -6,6 +6,7 @@ import { useAlert } from 'react-alert'
 import { useDispatch, useSelector } from 'react-redux'
 import { forgotPassword, clearErrors } from '../../actions/userActions'
 
+
 const ForgotPassword = () => {
 
     const [email, setEmail] = useState('')
