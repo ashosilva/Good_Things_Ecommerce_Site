@@ -77,7 +77,7 @@ const UpdateProfile = ({ history }) => {
             <div className="row wrapper">
                 <div className="col-10 col-lg-5">
                     <form className="shadow-lg" onSubmit={submitHandler} encType='multipart/form-data'>
-                        <h1 className="mt-2 mb-5">Update Profile</h1>
+                        <h1 className="mt-2 mb-5 text-3xl">Update Profile</h1>
 
                         <div className="form-group">
                             <label htmlFor="email_field">Name</label>

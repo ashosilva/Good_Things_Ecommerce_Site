@@ -53,7 +53,7 @@ const UpdatePassword = ({ history }) => {
             <div className="row wrapper">
                 <div className="col-10 col-lg-5">
                     <form className="shadow-lg" onSubmit={submitHandler}>
-                        <h1 className="mt-2 mb-5">Update Password</h1>
+                        <h1 className="mt-2 mb-5 text-3xl">Update Password</h1>
                         <div className="form-group">
                             <label for="old_password_field">Old Password</label>
                             <input

@@ -47,7 +47,7 @@ const Login = ({ history, location }) => {
                     <div className="row wrapper">
                         <div className="col-10 col-lg-5">
                             <form className="shadow-lg" onSubmit={submitHandler}>
-                                <h1 className="mb-3">Login</h1>
+                                <h1 className="mb-3 text-3xl">Login</h1>
                                 <div className="form-group">
                                     <label htmlFor="email_field">Email</label>
                                     <input
