@@ -6,15 +6,14 @@ import { useDispatch, useSelector } from 'react-redux'
 
 import Loader from '../layout/Loader'
 import MetaData from '../layout/MetaData'
-import { getProductDetails, clearErrors, getProducts } from '../../actions/productActions'
+import { getProductDetails, clearErrors} from '../../actions/productActions'
 import { addItemToCart } from '../../actions/cartActions'
 
 
 const ProductDetails = ({ match }) => {
 
     const [quantity, setQuantity] = useState(1)
-    const [rating, setRating] = useState(0);
-    const [comment, setComment] = useState('');
+    
 
     const dispatch = useDispatch()
     const alert = useAlert()
@@ -63,6 +62,7 @@ const ProductDetails = ({ match }) => {
         <Fragment>
             {loading ? <Loader /> : (
                 <Fragment>
+                    <MetaData title={product.name} />
                     <div className="row f-flex justify-content-around">
                         <div className="col-12 col-lg-5 img-fluid" id="product_image">
                             <Carousel pause='hover'>
