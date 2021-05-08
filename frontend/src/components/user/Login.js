@@ -17,13 +17,14 @@ const Login = ({ history, location }) => {
     const dispatch = useDispatch();
 
     const { isAuthenticated, error, loading } = useSelector(state => state.auth);
+    const redirect = location.search ? location.search.split('=')[1] : '/'
 
 
 
     useEffect(() => {
 
         if (isAuthenticated) {
-            history.push('/')
+            history.push(redirect)
         }
 
         if (error) {
@@ -84,7 +85,7 @@ const Login = ({ history, location }) => {
                                     <div><Link to="/register" className=" underline hover:text-yellow-500">Create Account</Link></div>
                                 </div>
 
-                                
+
                             </form>
                         </div>
                     </div>
