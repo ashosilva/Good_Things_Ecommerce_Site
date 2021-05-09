@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
 
+
 import Header from './components/layout/Header'
 import Footer from './components/layout/Footer'
 import About from './components/About'
@@ -36,13 +37,23 @@ import { useSelector } from 'react-redux'
 import store from './store'
 import axios from 'axios'
 
-
+// Payment
+import { loadStripe } from '@stripe/stripe-js'
+import { Elements } from '@stripe/react-stripe-js'
 
 function App() {
 
+  const [stripeApiKey, setStripeApiKey] = useState('')
 
   useEffect(() => {
     store.dispatch(loadUser())
+
+    async function getStripeApiKey() {
+      const { data } = await axios.get('/api/v1/stripeapi')
+      setStripeApiKey(data.stripeApiKey)
+    }
+
+    getStripeApiKey()
   }, [])
 
   return (
@@ -58,7 +69,12 @@ function App() {
           <Route exact path="/cart" component={Cart} />
           <ProtectedRoute exact path="/shipping" component={Shipping} />
           <ProtectedRoute exact path="/order/confirm" component={ConfirmOrder} />
-          <ProtectedRoute exact path="/payment" component={Payment} />
+
+          {stripeApiKey &&
+            <Elements stripe={loadStripe(stripeApiKey)}>
+              <ProtectedRoute path="/payment" component={Payment} />
+            </Elements>
+          }
 
           <Route path="/login" component={Login} />
           <Route path="/register" component={Register} />
@@ -68,7 +84,6 @@ function App() {
           <ProtectedRoute exact path="/me" component={Profile} />
           <ProtectedRoute exact path="/me/update" component={UpdateProfile} />
           <ProtectedRoute exact path="/password/update" component={UpdatePassword} />
-
 
         </div>
         <Footer />
