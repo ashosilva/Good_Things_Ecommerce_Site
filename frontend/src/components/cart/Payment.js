@@ -3,26 +3,30 @@ import React, { Fragment, useEffect } from 'react'
 import MetaData from '../layout/MetaData'
 import CheckOutSteps from './CheckOutSteps'
 
-import { useAlert } from 'react-alert'
-import { useDispatch, useSelector } from 'react-redux'
-// import { createOrder, clearErrors } from '../../actions/orderActions'
+import { useSelector } from 'react-redux'
 
-// import { useStripe, useElements, CardNumberElement, CardExpiryElement, CardCvcElement } from '@stripe/react-stripe-js'
 
-import axios from 'axios'
+const Payment = ({ history}) => {
 
-const options = {
-    style: {
-        base: {
-            fontSize: '16px'
-        },
-        invalid: {
-            color: '#9e2146'
-        }
+    const { cartItems, shippingInfo } = useSelector(state => state.cart);
+
+    const order = {
+        orderItems: cartItems,
+        shippingInfo
     }
-}
 
-const Payment = ({ history }) => {
+    const orderInfo = JSON.parse(sessionStorage.getItem('orderInfo'));
+    if (orderInfo) {
+        order.itemsPrice = orderInfo.itemsPrice
+        order.shippingPrice = orderInfo.shippingPrice
+        order.taxPrice = orderInfo.taxPrice
+        order.totalPrice = orderInfo.totalPrice
+    }
+
+    const submitHandler = async (e) => {
+        e.preventDefault();
+        history.push('/success')
+    }
 
     return (
         <Fragment>
@@ -32,14 +36,14 @@ const Payment = ({ history }) => {
 
             <div className="row wrapper">
                 <div className="col-10 col-lg-5">
-                    <form className="shadow-lg" /*onSubmit={submitHandler}*/ >
-                        <h1 className="mb-4 text-3xl">Card Info</h1>
+                    <form className="shadow-lg" onSubmit={submitHandler}>
+                        <h1 className="flex justify-center mb-4 text-xl">Card Info Form goes here</h1>
                         <button
                             id="pay_btn"
                             type="submit"
                             className="btn btn-block py-3"
                         >
-                            Pay{/* Pay {` - ${orderInfo && orderInfo.totalPrice}`} */}
+                            Pay {` - ${orderInfo && orderInfo.totalPrice}`}
                         </button>
 
                     </form>

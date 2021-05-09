@@ -57,7 +57,7 @@ function App() {
 
           <Route exact path="/cart" component={Cart} />
           <ProtectedRoute exact path="/shipping" component={Shipping} />
-          <ProtectedRoute exact path="/confirm" component={ConfirmOrder} />
+          <ProtectedRoute exact path="/order/confirm" component={ConfirmOrder} />
           <ProtectedRoute exact path="/payment" component={Payment} />
 
           <Route path="/login" component={Login} />
