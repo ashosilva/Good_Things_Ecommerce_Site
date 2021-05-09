@@ -47,9 +47,64 @@ const Payment = ({ history }) => {
         order.totalPrice = orderInfo.totalPrice
     }
 
+    // get the amount
+    const paymentData = {
+        //amount: Math.round(orderInfo.totalPrice * 100) // payment is in cents
+        amount: Math.round(order.totalPrice * 100)
+    }
+
+    console.log(paymentData)
+
     const submitHandler = async (e) => {
-        e.preventDefault();
-        history.push('/success')
+        e.preventDefault()
+
+        document.querySelector('#pay_btn').disable = true
+
+        let res
+
+        try {
+            const config = {
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            }
+
+            res = await axios.post('/api/v1/payment/process', paymentData, config)
+
+            const clientSecret = res.data.client_secret
+
+            if (!stripe || !elements) {
+                return
+            }
+
+            const result = await stripe.confirmCardPayment(clientSecret, {
+                payment_method: {
+                    card: elements.getElement(CardNumberElement),
+                    billing_details: {
+                        name: user.name,
+                        email: user.email
+                    }
+                }
+            })
+
+            if (result.error) {
+                alert.error(result.error.message)
+                document.querySelector('#pay_btn').disable = false
+            } else {
+                // if payment is processed
+                if (result.paymentIntent.status === 'succeeded') {
+                    // TODO: new order 
+
+                    history.push('/success')
+                } else {
+                    alert.error('Error processing payment')
+                }
+            }
+
+        } catch (error) {
+            document.querySelector('#pay_btn').disable = false
+            alert.error(error.response.data.message)
+        }
     }
 
     return (
@@ -60,7 +115,7 @@ const Payment = ({ history }) => {
 
             <div className="row wrapper">
                 <div className="col-10 col-lg-5">
-                    <form className="shadow-lg">
+                    <form className="shadow-lg" onSubmit={submitHandler}>
                         <h1 className="mb-4">Card Info</h1>
                         <div className="form-group">
                             <label htmlFor="card_num_field">Card Number</label>
@@ -97,8 +152,8 @@ const Payment = ({ history }) => {
                             type="submit"
                             className="btn btn-block py-3"
                         >
-                            Pay
-                </button>
+                            Pay {` - ${orderInfo && orderInfo.totalPrice}`}
+                        </button>
 
                     </form>
                 </div>
