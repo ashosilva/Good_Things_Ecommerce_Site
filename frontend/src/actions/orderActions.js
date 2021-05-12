@@ -4,7 +4,7 @@ import {
     CREATE_ORDER_REQUEST,
     CREATE_ORDER_SUCCESS,
     CREATE_ORDER_FAIL,
-   
+    
     CLEAR_ERRORS
 } from '../constants/orderConstants'
 
@@ -19,6 +19,7 @@ export const createOrder = (order) => async (dispatch, getState) => {
             }
         }
 
+        console.log("oA", order)
         const { data } = await axios.post('/api/v1/order/new', order, config)
 
         dispatch({

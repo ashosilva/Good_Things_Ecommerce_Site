@@ -135,6 +135,7 @@ const Home = ({match}) => {
                                                 <ul className="pl-0">
                                                     {[5, 4, 3, 2, 1].map(star => (
                                                         <li
+                                                            className="rating-hover"
                                                             style={{
                                                                 cursor:'pointer',
                                                                 listStyleType:'none'
