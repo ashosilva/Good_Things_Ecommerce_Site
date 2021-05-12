@@ -30,6 +30,10 @@ import UpdatePassword from './components/user/UpdatePassword'
 import ForgotPassword from './components/user/ForgotPassword'
 import NewPassword from './components/user/NewPassword'
 
+// Admin Imports
+import Dashboard from './components/admin/Dashboard'
+import ProductList from './components/admin/ProductsList'
+
 
 import ProtectedRoute from './components/route/ProtectedRoute'
 import { loadUser } from './actions/userActions'
@@ -71,7 +75,7 @@ function App() {
           <Route exact path="/cart" component={Cart} />
           <ProtectedRoute exact path="/shipping" component={Shipping} />
           <ProtectedRoute exact path="/order/confirm" component={ConfirmOrder} />
-          
+
 
           {stripeApiKey &&
             <Elements stripe={loadStripe(stripeApiKey)}>
@@ -88,7 +92,11 @@ function App() {
           <ProtectedRoute exact path="/me/update" component={UpdateProfile} />
           <ProtectedRoute exact path="/password/update" component={UpdatePassword} />
 
+
+
         </div>
+        <ProtectedRoute exact path="/dashboard" isAdmin={true} component={Dashboard} />
+        <ProtectedRoute exact path="/admin/products" isAdmin={true} component={ProductList} />
         <Footer />
       </div>
     </Router>

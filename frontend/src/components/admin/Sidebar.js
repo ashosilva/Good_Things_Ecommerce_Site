@@ -7,15 +7,15 @@ const Sidebar = () => {
             <nav id="sidebar">
                 <ul className="list-unstyled components">
                     <li>
-                        <Link to="/dashboard"><i className="fa fa-tachometer-alt"></i> Dashboard</Link>
+                        <Link to="/dashboard"><i className="fa fa-tachometer"></i> Dashboard</Link>
                     </li>
 
                     <li>
-                        <Link to="#productSubmenu" data-toggle="collapse" aria-expanded="false" className="dropdown-toggle"><i
-                            className="fa fa-product-hunt"></i> Products</Link>
+                        <a href="#productSubmenu" data-toggle="collapse" aria-expanded="false" className="dropdown-toggle"><i
+                            className="fa fa-product-hunt"></i> Products</a>
                         <ul className="collapse list-unstyled" id="productSubmenu">
                             <li>
-                                <Link to="/admin/products"><i className="fa fa-clipboard-list"></i> All</Link>
+                                <Link to="/admin/products"><i className="fa fa-clipboard"></i> All</Link>
                             </li>
 
                             <li>
