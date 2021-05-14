@@ -49,7 +49,7 @@ const ConfirmOrder = ({ history }) => {
                     <h4 className="mt-4 mb-2 text-2xl">Your Cart Items:</h4>
 
                     {cartItems.map(item => (
-                        <Fragment>
+                        <Fragment key= { item.product }>
                             <hr />
                             <div className="cart-item my-1" key={item.product}>
                                 <div className="row">
@@ -80,7 +80,7 @@ const ConfirmOrder = ({ history }) => {
                     <div id="order_summary">
                         <h4 className="text-xl mb-3">Order Summary</h4>
                         <hr />
-                        <p className="mb-2" >Subtotal:  <span className="order-summary-values" >${itemsPrice}</span></p>
+                        <p className="mb-2" >Subtotal:  <span className="order-summary-values" >${itemsPrice.toFixed(2)}</span></p>
                         <p className="mb-2">Shipping: <span className="order-summary-values">${shippingPrice}</span></p>
                         <p className="mb-2">Tax:  <span className="order-summary-values">${taxPrice}</span></p>
 
