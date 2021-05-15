@@ -14,11 +14,11 @@ import Cart from './components/cart/Cart'
 import Shipping from './components/cart/Shipping'
 import ConfirmOrder from './components/cart/ConfirmOrder'
 import Payment from './components/cart/Payment'
-// import OrderSuccess from './components/cart/OrderSuccess'
+import OrderSuccess from './components/cart/OrderSuccess'
 
 
-// // Order Imports
-// import ListOrders from './components/order/ListOrders'
+// Order Imports
+import ListOrders from './components/order/ListOrders'
 // import OrderDetails from './components/order/OrderDetails'
 
 // Auth/User imports
@@ -77,6 +77,9 @@ function App() {
           <ProtectedRoute exact path="/order/confirm" component={ConfirmOrder} />
 
 
+          <ProtectedRoute path="/success" component={OrderSuccess} />
+
+
           {stripeApiKey &&
             <Elements stripe={loadStripe(stripeApiKey)}>
               <ProtectedRoute path="/payment" component={Payment} />
@@ -87,12 +90,13 @@ function App() {
           <Route path="/register" component={Register} />
           <Route exact path="/password/forgot" component={ForgotPassword} />
           <Route exact path="/password/reset/:token" component={NewPassword} />
-
           <ProtectedRoute exact path="/me" component={Profile} />
           <ProtectedRoute exact path="/me/update" component={UpdateProfile} />
           <ProtectedRoute exact path="/password/update" component={UpdatePassword} />
 
 
+          <ProtectedRoute path="/orders/me" component={ListOrders} exact />
+          {/* <ProtectedRoute path="/order/:id" component={OrderDetails} exact /> */}
 
         </div>
         <ProtectedRoute exact path="/dashboard" isAdmin={true} component={Dashboard} />

@@ -1,10 +1,11 @@
-import { createStore, combineReducers, applyMiddleware } from 'redux'
-import thunk from 'redux-thunk'
+import { createStore, combineReducers, applyMiddleware } from 'redux';
+import thunk from 'redux-thunk';
 import { composeWithDevTools } from 'redux-devtools-extension'
 
 import { productsReducer, productDetailsReducer } from './reducers/productReducers'
 import { authReducer, userReducer, forgotPasswordReducer } from './reducers/userReducers'
 import { cartReducer } from './reducers/cartReducers'
+import { newOrderReducer, myOrdersReducer } from './reducers/orderReducers'
 
 
 const reducer = combineReducers({
@@ -13,13 +14,12 @@ const reducer = combineReducers({
     auth: authReducer,
     user: userReducer,
     forgotPassword: forgotPasswordReducer,
-    cart: cartReducer
+    cart: cartReducer,
+    newOrder: newOrderReducer,
+    myOrders: myOrdersReducer
 })
 
 
-
-
-// Contains all the data for the state before the application (cart items)
 let initialState = {
     cart: {
         cartItems: localStorage.getItem('cartItems')
@@ -31,7 +31,7 @@ let initialState = {
     }
 }
 
-const middleware = [thunk]
-const store = createStore(reducer, initialState, composeWithDevTools(applyMiddleware(...middleware)))
+const middlware = [thunk];
+const store = createStore(reducer, initialState, composeWithDevTools(applyMiddleware(...middlware)))
 
-export default store
+export default store;

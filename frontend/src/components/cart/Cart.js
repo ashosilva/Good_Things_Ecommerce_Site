@@ -46,10 +46,10 @@ const Cart = ({ history }) => {
                     <h2 className="mt-5 text-2xl">Your Cart: <b>{cartItems.length} items</b></h2>
 
                     <div className="row d-flex justify-content-between">
-                        <div className="col-12 col-lg-8">
+                        <div className="col-12 col-lg-8" >
 
                             {cartItems.map(item => (
-                                <Fragment>
+                                <Fragment key={item.product}>
                                     <hr />
 
                                     <div className="cart-item" key={item.product}>

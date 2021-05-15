@@ -1,19 +1,21 @@
 import React, { Fragment, useEffect } from 'react'
-import axios from 'axios'
 
 import MetaData from '../layout/MetaData'
 import CheckOutSteps from './CheckOutSteps'
 
 import { useAlert } from 'react-alert'
 import { useDispatch, useSelector } from 'react-redux'
+import { createOrder, clearErrors } from '../../actions/orderActions'
+
 import { useStripe, useElements, CardNumberElement, CardExpiryElement, CardCvcElement } from '@stripe/react-stripe-js'
+
+import axios from 'axios'
 
 const options = {
     style: {
         base: {
             fontSize: '16px'
         },
-        // if the card input is invalid change the color to red
         invalid: {
             color: '#9e2146'
         }
@@ -22,17 +24,23 @@ const options = {
 
 const Payment = ({ history }) => {
 
-    const alert = useAlert()
-    const stripe = useStripe()
-    const elements = useElements()
-    const dispatch = useDispatch()
+    const alert = useAlert();
+    const stripe = useStripe();
+    const elements = useElements();
+    const dispatch = useDispatch();
 
     const { user } = useSelector(state => state.auth)
     const { cartItems, shippingInfo } = useSelector(state => state.cart);
+    const { error } = useSelector(state => state.newOrder)
 
     useEffect(() => {
 
-    }, [])
+        if (error) {
+            alert.error(error)
+            dispatch(clearErrors())
+        }
+
+    }, [dispatch, alert, error])
 
     const order = {
         orderItems: cartItems,
@@ -47,22 +55,18 @@ const Payment = ({ history }) => {
         order.totalPrice = orderInfo.totalPrice
     }
 
-    // get the amount
     const paymentData = {
-        //amount: Math.round(orderInfo.totalPrice * 100) // payment is in cents
-        amount: Math.round(order.totalPrice * 100)
+        amount: Math.round(orderInfo.totalPrice * 100)
     }
 
-    console.log(paymentData)
-
     const submitHandler = async (e) => {
-        e.preventDefault()
+        e.preventDefault();
 
-        document.querySelector('#pay_btn').disable = true
+        document.querySelector('#pay_btn').disabled = true;
 
-        let res
-
+        let res;
         try {
+
             const config = {
                 headers: {
                     'Content-Type': 'application/json'
@@ -71,10 +75,12 @@ const Payment = ({ history }) => {
 
             res = await axios.post('/api/v1/payment/process', paymentData, config)
 
-            const clientSecret = res.data.client_secret
+            const clientSecret = res.data.client_secret;
+
+            console.log(clientSecret);
 
             if (!stripe || !elements) {
-                return
+                return;
             }
 
             const result = await stripe.confirmCardPayment(clientSecret, {
@@ -85,24 +91,32 @@ const Payment = ({ history }) => {
                         email: user.email
                     }
                 }
-            })
+            });
 
             if (result.error) {
-                alert.error(result.error.message)
-                document.querySelector('#pay_btn').disable = false
+                alert.error(result.error.message);
+                document.querySelector('#pay_btn').disabled = false;
             } else {
-                // if payment is processed
+
+                // The payment is processed or not
                 if (result.paymentIntent.status === 'succeeded') {
-                    // TODO: new order 
+
+                    order.paymentInfo = {
+                        id: result.paymentIntent.id,
+                        status: result.paymentIntent.status
+                    }
+
+                    dispatch(createOrder(order))
 
                     history.push('/success')
                 } else {
-                    alert.error('Error processing payment')
+                    alert.error('There is some issue while payment processing')
                 }
             }
 
+
         } catch (error) {
-            document.querySelector('#pay_btn').disable = false
+            document.querySelector('#pay_btn').disabled = false;
             alert.error(error.response.data.message)
         }
     }
@@ -146,6 +160,7 @@ const Payment = ({ history }) => {
                                 options={options}
                             />
                         </div>
+
 
                         <button
                             id="pay_btn"

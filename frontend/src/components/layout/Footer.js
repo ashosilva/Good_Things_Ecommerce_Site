@@ -1,16 +1,15 @@
 import React, { Fragment } from 'react'
-import { NavLink } from "react-router-dom"
+import { Link } from "react-router-dom"
 
 const Footer = () => {
     return (
         <Fragment>
-             <footer className="py-1">
-                <p className="text-center mt-1">
-                    Good Things 2021
-                 </p>
-                <NavLink to="/about" exact className="flex justify-center text-yellow-700 hover:text-gray-500 hover:underline">
-                    About Us
-                </NavLink>
+            <footer className="py-1">
+                <div className="text-center mt-1">
+                    <div>Good Things 2021</div>
+                    <Link to="/about" exact className="text-yellow-700 hover:text-gray-500 hover:underline">
+                        About Us</Link>
+                </div>
             </footer>
         </Fragment>
     )

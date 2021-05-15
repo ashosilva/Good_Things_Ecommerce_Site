@@ -3,18 +3,18 @@ const Product = require('../models/products')
 
 const ErrorHandler = require('../utils/errorHandler')
 const catchAsyncErrors = require('../middleware/catchAsyncErrors')
-const order = require('../models/order')
+
 
 // Create a new order => /api/v1/order/new
-exports.newOrder = catchAsyncErrors(async(req, res, next) => {
+exports.newOrder = catchAsyncErrors(async (req, res, next) => {
     // destructure the data
     const { orderItems,
-            shippingInfo,
-            itemsPrice,
-            taxPrice,
-            shippingPrice,
-            totalPrice,
-            paymentInfo
+        shippingInfo,
+        itemsPrice,
+        taxPrice,
+        shippingPrice,
+        totalPrice,
+        paymentInfo
     } = req.body
 
     const order = await Order.create({
@@ -34,13 +34,14 @@ exports.newOrder = catchAsyncErrors(async(req, res, next) => {
         order
     })
 
+    
 })
 
 // Get single order => api/v1/order/:id
-exports.getSingleOrder = catchAsyncErrors(async(req, res, next) => {
+exports.getSingleOrder = catchAsyncErrors(async (req, res, next) => {
     const order = await Order.findById(req.params.id).populate('user', 'name email')
 
-    if(!order){
+    if (!order) {
         return next(new ErrorHandler('Order does not exist with this id'), 404)
     }
 
@@ -51,8 +52,8 @@ exports.getSingleOrder = catchAsyncErrors(async(req, res, next) => {
 })
 
 // Get logged in users orders => api/v1/orders/me
-exports.myOrders = catchAsyncErrors(async(req, res, next) => {
-    const order = await Order.find({ user: req.user.id})
+exports.myOrders = catchAsyncErrors(async (req, res, next) => {
+    const order = await Order.find({ user: req.user.id })
 
     res.status(200).json({
         success: true,
@@ -61,7 +62,7 @@ exports.myOrders = catchAsyncErrors(async(req, res, next) => {
 })
 
 // Get all orders ADMIN => api/v1/admin/orders
-exports.allOrders = catchAsyncErrors(async(req, res, next) => {
+exports.allOrders = catchAsyncErrors(async (req, res, next) => {
     const orders = await Order.find()
 
     // Get the total amount of ALL sales
@@ -78,20 +79,20 @@ exports.allOrders = catchAsyncErrors(async(req, res, next) => {
 })
 
 // update / process order - ADMIN => /api/v1/admin/order/:id
-exports.updateOrder = catchAsyncErrors(async(req, res, next) => {
+exports.updateOrder = catchAsyncErrors(async (req, res, next) => {
     const order = await Order.findById(req.params.id)
 
-    if(order.orderStatus ==='Delivered'){
+    if (order.orderStatus === 'Delivered') {
         return next(new ErrorHandler('The order has already been delivered'), 400)
     }
 
     // Need to update the inventory
-    order.orderItems.forEach(async item => { 
+    order.orderItems.forEach(async item => {
         await updateStock(item.product, item.quantity)
     })
 
     order.orderStatus = req.body.status,
-    order.deliveredAt = Date.now()
+        order.deliveredAt = Date.now()
 
     await order.save()
 
@@ -105,14 +106,14 @@ async function updateStock(id, quantity) {
 
     product.stock = product.stock - quantity
 
-    await product.save({ validateBeforeSave: false})
+    await product.save({ validateBeforeSave: false })
 }
 
 // Delete order ADMIN => api/v1/admin/order/:id
-exports.deleteOrder = catchAsyncErrors(async(req, res, next) => {
+exports.deleteOrder = catchAsyncErrors(async (req, res, next) => {
     const order = await Order.findById(req.params.id)
 
-    if(!order){
+    if (!order) {
         return next(new ErrorHandler('Order does not exist with this id'), 404)
     }
 
