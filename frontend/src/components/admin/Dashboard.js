@@ -13,6 +13,7 @@ const Dashboard = () => {
     const dispatch = useDispatch()
 
     const { products } = useSelector(state => state.products)
+    console.log(products)
 
     let outOfStock = 0
     products.forEach(product => {
