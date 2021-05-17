@@ -63,7 +63,7 @@ function App() {
     getStripeApiKey()
   }, [])
 
-  const { user, loading } = useSelector(state => state.auth)
+  const { user, isAuthenticated, loading } = useSelector(state => state.auth)
 
   return (
     <Router>
@@ -106,7 +106,7 @@ function App() {
         <ProtectedRoute exact path="/admin/products" isAdmin={true} component={ProductList} />
         <ProtectedRoute exact path="/admin/product" isAdmin={true} component={NewProduct} />
 
-        {!loading && user.role !== 'admin' && (
+        {!loading && (!isAuthenticated || user.role !== 'admin') && (
           <Footer />
         )}
 
