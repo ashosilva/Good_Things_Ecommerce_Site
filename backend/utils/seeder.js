@@ -7,12 +7,12 @@ const connectDatabase = require('../config/database')
 const products = require('../data/product.json')
 
 // Setting dotenv file
-dotenv.config({path: 'backend/config.env'})
+dotenv.config({ path: 'backend/config/config.env' })
 
 connectDatabase()
 
 const seedProducts = async () => {
-    try{
+    try {
         // Delete all products
         await Product.deleteMany()
         console.log("Products have been deleted")
@@ -22,7 +22,7 @@ const seedProducts = async () => {
         console.log("All products have been added")
         process.exit()
 
-    } catch(error){
+    } catch (error) {
         console.log(error.message)
         process.exit()
     }

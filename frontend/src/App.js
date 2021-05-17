@@ -33,7 +33,7 @@ import NewPassword from './components/user/NewPassword'
 // Admin Imports
 import Dashboard from './components/admin/Dashboard'
 import ProductList from './components/admin/ProductsList'
-
+import NewProduct from './components/admin/NewProduct'
 
 import ProtectedRoute from './components/route/ProtectedRoute'
 import { loadUser } from './actions/userActions'
@@ -44,6 +44,7 @@ import axios from 'axios'
 // Payment
 import { loadStripe } from '@stripe/stripe-js'
 import { Elements } from '@stripe/react-stripe-js'
+import { userReducer } from './reducers/userReducers'
 
 function App() {
 
@@ -61,6 +62,8 @@ function App() {
 
     getStripeApiKey()
   }, [])
+
+  const { user, loading } = useSelector(state => state.auth)
 
   return (
     <Router>
@@ -101,7 +104,12 @@ function App() {
         </div>
         <ProtectedRoute exact path="/dashboard" isAdmin={true} component={Dashboard} />
         <ProtectedRoute exact path="/admin/products" isAdmin={true} component={ProductList} />
-        <Footer />
+        <ProtectedRoute exact path="/admin/product" isAdmin={true} component={NewProduct} />
+
+        {!loading && user.role !== 'admin' && (
+          <Footer />
+        )}
+
       </div>
     </Router>
   );

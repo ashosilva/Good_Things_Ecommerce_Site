@@ -1,1347 +1,1523 @@
 [
     {
-        "name" : "SanDisk Ultra 128GB SDXC UHS-I Memory Card up to 80MB/s",
-        "price" : "45.89",
-        "description" : "Ultra-fast cards (2) to take better pictures and Full HD videos (1) with your compact to mid-range point-and-shoot cameras and camcorders. With SanDisk Ultra SDXC UHS-I cards you’ll benefit from faster downloads, high capacity, and better performance to capture and store 128GB (5) of high quality pictures and Full HD video (1). Take advantage of ultra-fast read speeds of up to 80MB/s (3) to save time moving photos and videos from the card to your computer. From a leader in flash memory storage, SanDisk Ultra SDXC UHS-I cards are compatible with SDHC and SDXC digital devices, and come with a 10-year limited warranty (6).",
-        "ratings" : 4.5,
-        "images" : [{
-            "public_id" : "products/dsvbpny402gelwugv2le",
-            "url" : "https://res.cloudinary.com/bookit/image/upload/v1608062030/products/dsvbpny402gelwugv2le.jpg"
-        }],
-        "category" : "Electronics",
-        "seller" : "Ebay",
-        "stock" : 50,
-        "numOfReviews" : 32,
-        "reviews": []
-    },
-    {
-        "name" : "CAN USB FD Adapter (GC-CAN-USB-FD)",
-        "price" : "315.00",
-        "description" : "Monitor a CAN network, write a CAN program and communicate with industrial, medical, automotive or other CAN based device. Connect CAN FD and CAN networks to a computer via USB with the CAN USB FD adapter.",
-        "ratings" : 1.65,
-        "images" : [{
-            "public_id" : "products/61oXGZ60GfL_fixco9",
-            "url" : "https://res.cloudinary.com/bookit/image/upload/v1614877995/products/61oXGZ60GfL_fixco9.jpg"
-        }],
-        "category" : "Electronics",
-        "seller" : "Amazon",
-        "stock" : 0,
-        "numOfReviews" : 2,
-        "reviews": []
-    },
-    {
-        "name" : "CHARMOUNT Full Motion TV Wall Mount Swivel",
-        "price" : "26.99 ",
-        "description" : "CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3). CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3) CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3).",
-        "ratings" : 3.5,
-        "images" : [{
-            "public_id" : "products/chairmount_nuubea",
-            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231285/products/chairmount_nuubea.jpg"
-        }],
-        "category" : "Electronics",
-        "seller" : "Amazon",
-        "stock" : 1,
-        "numOfReviews" : 12,
-        "reviews": []
-    },
-    {
-        "name" : "Bose QuietComfort 35 II Wireless Bluetooth Headphones",
-        "price" : "299.00 ",
-        "description" : "What happens when you clear away the noisy distractions of the world? Concentration goes to the next level. You get deeper into your music, your work, or whatever you want to focus on. That’s the power of Bose QuietComfort 35 wireless headphones II. Put them on and get closer to what you’re most passionate about. And that’s just the beginning. QuietComfort 35 wireless headphones II are now enabled with Bose AR",
-        "ratings" : 4.5,
-        "images" : [{
-            "public_id" : "products/headphones_t2afnb",
-            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231281/products/headphones_t2afnb.jpg"
-        }],
-        "category" : "Headphones",
-        "seller" : "Amazon",
-        "stock" : 11,
-        "numOfReviews" : 112,
-        "reviews": []
-    },
-    {
-        "name" : "Apple AirPods with Charging Case (Wired)",
-        "price" : "126.99 ",
-        "description" : "AirPods with Charging Case: More than 24 hours listening time, up to 18 hours talk time; AirPods (single charge): Up to 5 hours listening time, up to 3 hours talk time or 15 minutes in the case equals up to 3 hours listening time or up to 2 hours talk time.",
-        "ratings" : 4.8,
-        "images" : [{
-            "public_id" : "products/airpords_e5cqqr",
-            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231282/products/airpords_e5cqqr.jpg"
-        }],
-        "category" : "Electronics",
-        "seller" : "Amazon",
-        "stock" : 122,
-        "numOfReviews" : 2671,
-        "reviews": []
-    },
-    {
-        "name" : "Cable Boom Microphone - Volume Control for Playstation PS4 or Xbox",
-        "price" : "27.99",
-        "description" : "DESIGN INFO - 3.5mm male to 2.5mm male audio cable adapter with Upgraded Flexible, Detachable Boom Mic which also enables rotary Volume Control and Mute Switch. SteelFlex Arm for perfect microphone positioning. INPUT COMPATIBILITY - Devices supporting 3.5mm audio output such as gaming PS4 / Xbox One controller, PC, Laptop, iPhone and Android Phone.",
-        "ratings" : 4.1,
-        "images" : [{
-            "public_id" : "products/eahhtj1bkn1k9gjgd3hn",
-            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606233125/products/eahhtj1bkn1k9gjgd3hn.jpg"
-        }],
-        "category" : "Accessories",
-        "seller" : "Amazon",
-        "stock" : 1123,
-        "numOfReviews" : 6,
-        "reviews": []
-    },
-    {
-        "name" : "Nikon D3500 W/ AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR Black ",
-        "price" : "496.95",
-        "description" : "You don't need to be a photographer to know a great photo when you see one. And you don't need to be a photographer to take a great photo—you just need the D3500. It's as easy to use as a point-and-shoot, but it takes beautiful DSLR photos and videos that get noticed. It feels outstanding in your hands, sturdy and balanced with controls where you want them. It's compact, durable and versatile, ideal for travel. And it works seamlessly with compatible smartphones, making it easier than ever to share your great photos. Even if you've never picked up a DSLR camera, you can take beautiful pictures with D3500.",
-        "ratings" : 4.7,
-        "images" : [{
-            "public_id" : "products/camera_ridc0i",
-            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231283/products/camera_ridc0i.jpg"
-        }],
-        "category" : "Cameras",
-        "seller" : "Amazon",
-        "stock" : 131,
-        "numOfReviews" : 222,
-        "reviews": []
-    },
-    {
-        "name" : "Apple MacBook Air (13-inch, 8GB RAM, 256GB SSD Storage) - Space Gray ",
-        "price" : "949.99",
-        "description" : "Stunning 13.3-inch Retina display with True Tone technology, Backlit Magic Keyboard and Touch ID, Tenth-generation, Intel Core i3 processor, Intel Iris Plus Graphics, Fast SSD storage, 8GB of memory, Stereo speakers with wider stereo sound",
-        "ratings" : 4.9,
-        "images" : [{
-            "public_id" : "products/macbook_o2cj2k",
-            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231282/products/macbook_o2cj2k.jpg"
-        }],
-        "category" : "Laptops",
-        "seller" : "Amazon",
-        "stock" : 0,
-        "numOfReviews" : 56,
-        "reviews": []
-    },
-    {
-        "name" : "Kauffman Orchards Homegrown McIntosh Apples",
-        "price" : "2.75",
-        "description" : "McIntosh is a pretty red/green apple with white flesh Homegrown in Kauffman's orchard in healthy Lancaster County soil McIntosh apples are famous for snacking, pies, salads, and applesauce Protected with soft, high-density foam for safe shipping to your door Not for sale to California, Oregon, or Washington due to state laws governing fresh produce",
-        "ratings" : 5,
-        "images" : [
+        "name": "SanDisk Ultra 128GB SDXC UHS-I Memory Card up to 80MB/s",
+        "price": "45.89",
+        "description": "Ultra-fast cards (2) to take better pictures and Full HD videos (1) with your compact to mid-range point-and-shoot cameras and camcorders. With SanDisk Ultra SDXC UHS-I cards you’ll benefit from faster downloads, high capacity, and better performance to capture and store 128GB (5) of high quality pictures and Full HD video (1). Take advantage of ultra-fast read speeds of up to 80MB/s (3) to save time moving photos and videos from the card to your computer. From a leader in flash memory storage, SanDisk Ultra SDXC UHS-I cards are compatible with SDHC and SDXC digital devices, and come with a 10-year limited warranty (6).",
+        "ratings": 4.5,
+        "images": [
             {
-                "public_id" : "products/wmoa49q9e70ze9xtcra2",
-                "url" : "https://res.cloudinary.com/bookit/image/upload/v1606293153/products/wmoa49q9e70ze9xtcra2.jpg"
-            },
-            {
-                "public_id" : "products/i0k1wdwi5hrpmzwxvsds",
-                "url" : "https://res.cloudinary.com/bookit/image/upload/v1606293152/products/i0k1wdwi5hrpmzwxvsds.jpg" 
-            },
-            {
-                "public_id" : "products/bshmuo9qisfhz4azvnsd",
-                "url" : "https://res.cloudinary.com/bookit/image/upload/v1606293153/products/bshmuo9qisfhz4azvnsd.jpg"
+                "public_id": "products/dsvbpny402gelwugv2le",
+                "url": "https://res.cloudinary.com/bookit/image/upload/v1608062030/products/dsvbpny402gelwugv2le.jpg"
             }
-    ],
-        "category" : "Food",
-        "seller" : "Kauffman's Fruit Farm & Market",
-        "stock" : 500,
-        "numOfReviews" : 1,
-        "reviews": []
-    },
-    {
-        "name" : "Bose QuietComfort Noise Cancelling Earbuds - True Wireless Earphones, Triple Black",
-        "price" : "279.00",
-        "description" : "Welcome to the world's most effective noise cancelling earbuds. Fit with 11 levels of noise cancellation, acclaimed Bose sound, comfortable shape, IPX4 water resistant, up to 20 hours of non-stop play, simple touch controls, and Bluetooth 5.1",
-        "ratings" : 4.5,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Headphones",
-        "seller" : "Bose",
-        "stock" : 250,
-        "numOfReviews" : 49,
-        "reviews": []
-    },
-    {
-        "name" : "PlayStation 5 DualSense Wireless Controller",
-        "price" : "69.98",
-        "description" : "Ready to experience the best that the gaming world has to offer? Introducing the PS5 DualSense controller, with a built-in microphone and head-set jack, adaptive triggers, and haptic feedback. ",
-        "ratings" : 4.8,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Electronics",
-        "seller" : "Amazon",
-        "stock" : 12,
-        "numOfReviews" : 19,
-        "reviews": []
-    },
-    {
-        "name" : "Nike Women's Air Zoom Pegasus 36 Running Shoes, Black/White-thunder Grey, Size 9",
-        "price" : "134.87",
-        "description" : "A shoe designed for world class runners. The Air Zoom Pegasus is light, breathable, and uses ST cushioning to provide maximum support.",
-        "ratings" : 4.6,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Shoes",
-        "seller" : "Nike",
-        "stock" : 15,
-        "numOfReviews" : 27,
-        "reviews": []
-    },
-    {
-        "name" : "CK Men's Liquid Touch Polo Solid with Uv-Protection",
-        "price" : "39.00",
-        "description" : "Keep cool with Calvin Klein's distinct short sleeve liquid touch polo shirts, designed with ultra-fine yarns for ventilation and breathability. Made with 100% cotton, it's light and soft for all day comfort.",
-        "ratings" : 4.5,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Clothes",
-        "seller" : "Calvin Klein",
-        "stock" : 30,
-        "numOfReviews" : 49,
-        "reviews": []
-    },
-    {
-        "name" : "The Handmaid's Tale by Margaret Atwood - Paperback",
-        "price" : "6.79",
-        "description" : "A #1 New York Times Bestseller, An instant classic and eerily prescient cultural phenomenon, from “the patron saint of feminist dystopian fiction” (The New York Times). Now an award-winning Hulu series starring Elizabeth Moss. 311 Pages ",
-        "ratings" : 4.4,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Books",
-        "seller" : "Amazon",
-        "stock" : 220,
-        "numOfReviews" : 397,
-        "reviews": []
-    },
-    {
-        "name" : "1984 by George Orwell - Paperback",
-        "price" : "7.48",
-        "description" : "Written more than 70 years ago, 1984 was George Orwell’s chilling prophecy about the future. And while 1984 has come and gone, his dystopian vision of a government that will do anything to control the narrative is timelier than ever...- 328 Pages",
-        "ratings" : 4.7,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Books",
-        "seller" : "Amazon",
-        "stock" : 139,
-        "numOfReviews" : 176,
-        "reviews": []
-    },
-    {
-        "name" : "Humans by Brandon Stanton - Hardcover",
-        "price" : "17.50",
-        "description" : "Just when we need it, Humans reminds us what it means to be human . . . one of the most influential art projects of the decade. ―Washington Post, 448 Pages ",
-        "ratings" : 4.9,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Books",
-        "seller" : "Amazon",
-        "stock" : 37,
-        "numOfReviews" : 94,
-        "reviews": []
-    },
-    {
-        "name" : "The Hobbit and The Lord of the Rings 4 Book Box Set by J.R.R. Tolkien - Paperback",
-        "price" : "39.49",
-        "description" : "This four-volume, deluxe paperback boxed set contains J.R.R. Tolkien's epic masterworks The Hobbit and the three volumes of The Lord of the Rings (The Fellowship of the Ring, The Two Towers, and The Return of the King).  In The Hobbit, Bilbo Baggins is whisked away from his comfortable, unambitious life in Hobbiton by the wizard Gandalf and a company of dwarves. He finds himself caught up in a plot to raid the treasure hoard of Smaug the Magnificent, a large and very dangerous dragon.  The Lord of the Rings tells of the great quest undertaken by Frodo Baggins and the Fellowship of the Ring: Gandalf the wizard; the hobbits Merry, Pippin, and Sam; Gimli the dwarf; Legolas the elf; Boromir of Gondor; and a tall, mysterious stranger called Strider. J.R.R. Tolkien's three volume masterpiece is at once a classic myth and a modern fairy tale—a story of high and heroic adventure set in the unforgettable landscape of Middle-earth.",
-        "ratings" : 4.8,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Books",
-        "seller" : "Amazon",
-        "stock" : 16,
-        "numOfReviews" : 756,
-        "reviews": []
-    },
-    {
-        "name" : "One A Day Women’s 50+ Gummies Advanced Multivitamin with Brain Support, Super 8 B vitamin complex, 110 Count",
-        "price" : "13.99",
-        "description" : "Rich in all 8 b-vitamins to support healthy brain and cognitive function; Specifically formulated to support six key concerns of aging: heart, eye, immune and bone health, healthy brain function, and Physical energy; Excellent source of antioxidant vitamins A, C, and E to help maintain good health; Free of high fructose corn syrup, artificial sweeteners, synthetic colors and fish/crustacean shellfish, dairy (milk), and egg allergens.",
-        "ratings" : 4.5,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Health",
-        "seller" : "Amazon",
-        "stock" : 35,
-        "numOfReviews" : 56,
-        "reviews": []
-    },
-    {
-        "name" : "One A Day Men's Health Formula, 300 Tablets",
-        "price" : "26.01",
-        "description" : "Complete Multivitamin Formulated for Men; Key Nutrients to Support Immune Health and Physical Energy; Gluten, Wheat and Dairy Free.",
-        "ratings" : 4.8,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Health",
-        "seller" : "Amazon",
-        "stock" : 39,
-        "numOfReviews" : 44,
-        "reviews": []
-    },
-    {
-        "name" : "Sony ZX Series Wired On-Ear Headphones, Black MDR-ZX110",
-        "price" : "9.99",
-        "description" : "Lightweight 1.38 in neodymium dynamic drivers deliver a punchy, rhythmic response to even the most demanding tracks; The swiveling earcup design allows easy storage when you’re not using them, and enhances portability when you’re traveling; Cushioned earpads for total comfort and enfolding closed-back design seals in sound; The wide frequency range—spanning 12 Hz to 22 kHz—delivers deep bass, rich midrange, and soaring highs; Plug: L-shaped stereo mini plug 3.5mm",
-        "ratings" : 4.5,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Headphones",
-        "seller" : "Amazon",
-        "stock" : 39,
-        "numOfReviews" : 44,
-        "reviews": []
-    },
-    {
-        "name" : "Philips Lightweight Shp1900 Headphones ",
-        "price" : "16.99",
-        "description" : "So lightweight that you hardly feel them; Full sized earshells block the external noise; Ear cushions improve wearing comfort and bass response; Lightweight headband enhances comfort and adds durability; The whole ear is covered to optimize sound quality",
-        "ratings" : 3.9,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Headphones",
-        "seller" : "Amazon",
-        "stock" : 15,
-        "numOfReviews" : 32,
-        "reviews": []
-    },
-    {
-        "name" : "Samsung Galaxy Buds+ Plus, True Wireless Earbuds (Wireless Charging Case Included), Black",
-        "price" : "149.99",
-        "description" : "Exactly what you want to hear. Galaxy Buds+ are the perfect fitting earbuds to isolate you from distracting noises, so you can stay focused on what you want. And if you’d like to filter in some of the outside world to be more in-tune with your surroundings, you can switch on Ambient Aware2. Hear flight annozments, oncoming traffic or your order number while still enjoying your favorite playlist or podcast. 22 hours of serious sound. Get up to 11 hours of nonstop music on a single charge, then pop your Galaxy Buds+ in the wireless charging case and get nearly 11 more. Forgot to charge them the night before? No worries. 3 minutes of charging gives you one hour of play time, so you have enough juice for your commute or workout. Your voice, loud and clear. Ensure you’re heard clearly. A dedicated internal and two external microphones pick up your voice and isolate it from outside noises. When you’re on a call, your voice comes through richly and confidently, even in noisy locations. Android & iOS compatible. Pair with smart devices via Bluetooth. Use the Galaxy Wearable app on Android and Galaxy Buds+ app on iOS to make the most of your earphones. Included Components: 3 Size Eargel",
-        "ratings" : 4.7,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Headphones",
-        "seller" : "Samsung Electronics",
-        "stock" : 79,
-        "numOfReviews" : 421,
-        "reviews": []
-    },
-    {
-        "name" : "Panasonic Ergofit in-Ear Earbud Headphones Matte Black/Red (RP-HJE120-KB)",
-        "price" : "9.99",
-        "description" : " WIRED IN-EAR HEADPHONES - Perfect for exercising; With three sets of earpads (S/M/L), headphones stay in your ears while keeping surrounding noise out; ERGOFIT DESIGN FOR PERFECT FIT- Ultra-soft ErgoFit in-ear earbud headphones conform instantly to your ears (S/M/L earpads included for a perfect fit); SMARTPHONE COMPATIBLE- Panasonic in-ear headphones with integrated microphone and remote are compatible with Apple (iPhone / iPod / iPad), Android and Blackberry Audio devices; IN-EAR STEREO AUDIO - Tonally balanced audio with crisp highs and deep low notes, plus wider frequency response and lively sound quality for recorded audio; EXTENDED HEADPHONE CORD - Long, 3.6-ft cord threads comfortably through clothing and bags making it easy to connect ",
-        "ratings" : 4.3,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Headphones",
-        "seller" : "Amazon",
-        "stock" : 199,
-        "numOfReviews" : 567,
-        "reviews": []
-    },
-    {
-        "name" : "L'Oreal Paris Skincare Dermo-Expertise Oil-Free Eye Makeup Remover, Gentle Eye Makeup Remover, 4 fl. oz.",
-        "price" : "6.59",
-        "description" : "Helps condition eye area and remove makeup; Oil-free formula without greasy residue; Helps refresh eye area while it cleans; Dermatologist-tested; Ophthalmologist-tested and safe for contact lens wearers",
-        "ratings" : 4.4,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Beauty",
-        "seller" : "Amazon",
-        "stock" : 753,
-        "numOfReviews" : 601,
-        "reviews": []
-    },
-    {
-        "name" : "NYX PROFESSIONAL MAKEUP Matte Lipstick - Strawberry Daiquiri, Salmon Pink",
-        "price" : "6.00",
-        "description" : "Smooth and Plush Matte Lipstick: Load your lips with the plush, pigment rich matte colors of this shockingly smooth matte lipstick that glides right on and stays in place with a silky matte finish; Creamy and Dreamy: This matte lipstick is never dry feeling, always creamy, dreamy and matte; Now available in a range of fresh new matte colors, these playful matte lipstick shades are just what your lips need; Lip Products For The Perfect Pout: Doll your lips in plush, creamy, perfection; Try our complete line of lip products including lipstick, lip gloss, lip cream, lip liner and butter gloss; Cruelty Free Cosmetics: We believe animals belong in our arms, not in a lab; All of our makeup is certified and acknowledged by PETA as a cruelty free brand; We don't test any of our products on animals ",
-        "ratings" : 4.3,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Beauty",
-        "seller" : "Amazon",
-        "stock" : 249,
-        "numOfReviews" : 74,
-        "reviews": []
-    },
-    {
-        "name" : "Ecotools Makeup Cleaner for Brushes, Brush and Sponge Cleansing Shampoo, 6 oz",
-        "price" : "6.99",
-        "description" : "MAKEUP BRUSH CLEANSING SHAMPOO: Easy to use and long lasting brush cleaner naturally cleans & conditions your applicators, returning your brushes and sponges back to their gentle form; PARABEN FREE SHAMPOO: The hypoallergenic, water based shampoo is dermatologist tested & made with plant-based ingredients. Free of phthalates, petroleum, and perfume. Includes two shampoo bottles; FACE FORWARD: EcoTools offers a full variety of high-quality spa tools, makeup brushes & sponges: eyes, brow, blender, lip, or skin & face, we've got every beauty tool to put your best face forward; EcoTools: We provide high quality, environmentally friendly makeup brushes, sponges, brush cleaners, spa products, face & body care products made of recycled aluminum & plastic with renewable bamboo; POWER OF BEAUTY: Aside from our quality cruelty free & vegan makeup products, we support women's empowerment & for women to become the best version of themselves.",
-        "ratings" : 4.7,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Beauty",
-        "seller" : "Amazon",
-        "stock" : 23,
-        "numOfReviews" : 49,
-        "reviews": []
-    },
-    {
-        "name" : "Maybelline Baby Skin Instant Pore Eraser Primer, Clear, 0.67 Fl Oz",
-        "price" : "5.24",
-        "description" : "Pore minimizer face primer: A pore-blurring makeup primer, Baby Skin goes on like a moisturizer to help create a smooth canvas over which to apply foundation, and leaves the skin looking matte and poreless; Bye bye pores, hello baby skin: Apply primer, face makeup & concealer, or wear primer on a bare face for a low-maintenance look that's smooth, matte & moisturized all day. If you're looking to minimize pores, no more searching. This primer is for you.",
-        "ratings" : 4.4,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Beauty",
-        "seller" : "Amazon",
-        "stock" : 67,
-        "numOfReviews" : 97,
-        "reviews": []
-    },
-    {
-        "name" : "Cetaphil Gentle Waterproof Makeup Remover, 6.0 Fl Oz",
-        "price" : "10.29",
-        "description" : "Effectively removes stubborn makeup, oil and impurities while soothing skin; Formulated with aloe vera and soothing botanicals ginseng & green tea; Leaves eye area feeling clean and refreshed with no oily residue; Dermatologist tested, ophthalmologist tested; Non-comedogenic, fragrance free",
-        "ratings" : 4.5,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Beauty",
-        "seller" : "Amazon",
-        "stock" : 67,
-        "numOfReviews" : 124,
-        "reviews": []
-    },
-    {
-        "name" : "Care Touch Blood Glucose Meter, 100 Blood Test Strips, 1 Lancing Device, 30 gauge Lancets-100 count and Carrying Case",
-        "price" : "30.99",
-        "description" : "FAST RESULTS – Get results in as little as 5 seconds; NO CODING – Our monitors recognize batch codes encrypted on each test strip, so there is no need for you to manually insert any code with each new batch; HYGIENIC STRIP EJECTION – Our state-of-the-art monitoring system includes a single touch strip ejection, so you no longer have to worry about manually removing the soiled strip; MEMORY – Keep a survey of your health using the memory storage capable of saving up to 300 readings, while also keeping a continuous 14-day average; Care Touch Diabetes Testing Kit – Care Touch Blood Glucose Meter, 100 Blood Test Strips, 1 Lancing Device, 30 gauge Lancets-100 count and Carrying Case",
-        "ratings" : 4.6,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Health",
-        "seller" : "Amazon",
-        "stock" : 99,
-        "numOfReviews" : 76,
-        "reviews": []
-    },
-    {
-        "name" : "Champion Men's Classic Jersey Script T-Shirt, Large",
-        "price" : "15.00",
-        "description" : "100% Cotton; Imported; Pull On closure; Machine Wash; Matching back neck tape; Iconic C patch on left sleeve",
-        "ratings" : 4.7,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Clothes",
-        "seller" : "Champion",
-        "stock" : 49,
-        "numOfReviews" : 45,
-        "reviews": []
-    },
-    {
-        "name" : "Thrasher Flame Short Sleeve T-Shirt, X-Large",
-        "price" : "29.95",
-        "description" : "Color: Heather Gray with blue front print; 100% Cotton; Imported; Pull On closure",
-        "ratings" : 4.7,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Clothes",
-        "seller" : "Thrasher",
-        "stock" : 3,
-        "numOfReviews" : 12,
-        "reviews": []
-    },
-    {
-        "name" : "MTV Beach Island Flamingo Logo Vintage Graphic T-Shirt, Small",
-        "price" : "19.99",
-        "description" : "100% Cotton; Machine wash cold with like colors, dry low heat; Officially Licensed MTV Apparel Copyright 2019 Viacom; Lightweight, Classic fit, Double-needle sleeve and bottom hem ",
-        "ratings" : 4.5,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Clothes",
-        "seller" : "Amazon",
-        "stock" : 12,
-        "numOfReviews" : 31,
-        "reviews": []
-    },
-    {
-        "name" : "STAR WARS Men's Rebel Classic Graphic T-Shirt, Medium",
-        "price" : "19.23",
-        "description" : "100% Cotton; Materials made in the USA and Imported; Drawstring closure; Machine Wash",
-        "ratings" : 2.2,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Clothes",
-        "seller" : "Amazon",
-        "stock" : 1,
-        "numOfReviews" : 3,
-        "reviews": []
-    },
-    {
-        "name" : "Carhartt Men's Signature Logo Short-Sleeve Midweight Jersey T-Shirt K195, X-Large",
-        "price" : "19.99",
-        "description" : "Dark Cobalt Blue Heather; 60% Cotton, 40% Polyester; Imported; Machine Wash; Original fit / Loose Fit; Rib-knit crewneck; Side-seamed construction minimizes twisting; Tag less neck label; Carhartt signature logo printed on chest and back neck",
-        "ratings" : 4.5,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Clothes",
-        "seller" : "Carhartt",
-        "stock" : 4,
-        "numOfReviews" : 7,
-        "reviews": []
-    },
-    {
-        "name" : "Under Armour Men's Team Issue Wordmark Short Sleeve T-Shirt, Navy, Medium",
-        "price" : "22.19",
-        "description" : "Imported; Loose: Fuller cut for complete comfort. Heatgear: keeps you cool; Super-soft, cotton-blend fabric provides all-day comfort; Ribbed collar; 60% Cotton/40% Polyester.",
-        "ratings" : 3.5,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Clothes",
-        "seller" : "Under Armour",
-        "stock" : 45,
-        "numOfReviews" : 23,
-        "reviews": []
-    },
-    {
-        "name" : "Wrangler Authentics Men's Long Sleeve Quilted Lined Flannel Shirt Jacket with Hood, Large",
-        "price" : "35.99",
-        "description" : "100% Cotton; Imported; Button closure; RELAXED FIT: Constructed with comfort in mind, this long sleeve quilted lined flannel shirt is a wardrobe essential for those cold Winter nights; HEAVYWEIGHT MATERIALS: Built with button cuffs and quilted polyester padding for more durability and added warmth; FOR ADDED WARMTH: Padded with diamond black quilted polyester to create extra warmth while also creating breathability, this is an extremely versatile flannel shirt; FUNCTIONAL STYLE: Lined with 100% cotton, this brushed flannel is made with style in mind. Wear it on the job or out to lunch, this essential closet staple can be worn for many occasions; ADDED STORAGE: Constructed with (2) dual front chest pockets and (2) side seam pockets, this flannel has easy-access storage for all your basic necessities.",
-        "ratings" : 4.0,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Clothes",
-        "seller" : "Wrangler",
-        "stock" : 15,
-        "numOfReviews" : 26,
-        "reviews": []
-    },
-    {
-        "name" : "Sullivans Small Ceramic Vase Set, Rustic Home Décor, Set of 3 Vases, Multi-Color",
-        "price" : "34.99",
-        "description" : "This set of three petite, distressed multicolored vases work as the perfect accent set for any design theme, and are even great for gift giving; The elegant, yet simplistic look will be sure to add some rustic charm to your mantel, tabletop, shelf, or along-side your favorite décor pieces; These sturdy ceramic vases are built to endure many for many years and can be used year-round; These vases are perfect to display your favorite dry or faux florals and greenery pieces, but not recommended for fresh flowers and water; Each vase varies in size measuring at 3in L x 3in W x 5in H, 3in L x 3in W x 7.5in H, and 3in L x 3in W x 10in H",
-        "ratings" : 3.0,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Home",
-        "seller" : "Amazon",
-        "stock" : 10,
-        "numOfReviews" : 2,
-        "reviews": []
-    },
-    {
-        "name" : "6 PC Sheet Set Bamboo Sheets, Deep Pockets, Eco Friendly Wrinkle-Free Sheets, Eggplant, Queen ",
-        "price" : "34.95",
-        "description" : "LUXURY BEDDING - LuxClub 6 pc bamboo sheet sets, more luxurious sheet & pillowcase sets than the finest Egyptian cotton sheets. Softer breathable sheets VS 100% cotton sheet sets; COMFORT - LuxClub 6 piece bamboo sheets beat hotel sheets & high thread count luxury sheets. Best cooling sheets with superior breathability. Our Bamboo bedding sets; 18 inch deep pocket sheets, wrinkle free sheets, silky soft sheets; BEST BED SHEETS - Bamboo viscose fabric blended with microfiber & elastic all around our bamboo fitted sheets. Our bamboo deep pocket sheets have extra deep pockets for memory foam or mattress toppers. Softer than Jersey Sheets & strong while being fade resistant, anti-pill, temperature regulating sheets due to our percale sheet process; COOLING BED SHEET - Best sheets for hot sleepers, moisture-wicking sheets; INCLUDES - 1 Fitted Sheet, 1 Flat Sheet & 4 Pillowcases ",
-        "ratings" : 4.2,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Home",
-        "seller" : "Amazon",
-        "stock" : 29,
-        "numOfReviews" : 43,
-        "reviews": []
-    },
-    {
-        "name" : "Antimicrobial bed pillow with Built-In Ultra-Fresh Anti-Odor Technology, Standard Size, White 4 Count",
-        "price" : "42.00",
-        "description" : " FRESH & CLEAN COVER- Each cover is treated with anti-odor Ultra-Fresh Technology making these pillows antimicrobial & antibacterial to help keep your sleeping area fresh & clean; ULTRA-FRESH TREATMENT- Provides a 99% reduction in bacterial growth to protect from odor & stain growth; LOFTY SUPPORT- Hypoallergenic polyester fiber offers lofty comfort throughout the night; LUXURY COTTON COVER- Each pillow features a 200 thread count, natural cotton cover to provide enhanced softness; COMFORT REGARDLESS OF SLEEP POSITION- The fiber fill cradles the head & neck to provide plush support ideal for all sleep styles ",
-        "ratings" : 3.8,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Home",
-        "seller" : "Amazon",
-        "stock" : 50,
-        "numOfReviews" : 17,
-        "reviews": []
-    },
-    {
-        "name" : "Dining Chair Upholstered Fabric Dining Chairs with Copper Nails, Set of 4, Blue",
-        "price" : "181.99",
-        "description" : "The chair seat is made of linen fabric with sponge padding, which is both breathable and comfortable; Silver nailhead detailing provides eye catching detail; High quality spring and thick foam padding for a comfortable and durable seat; Sturdy wooden frame with rubber wooden legs can hold up to 280lbs,Seat Height: 19in, Seat Width: 17.8in, Seat Depth: 17in ",
-        "ratings" : 3.2,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Home",
-        "seller" : "Amazon",
-        "stock" : 5,
-        "numOfReviews" : 11,
-        "reviews": []
-    },
-    {
-        "name" : "Rawlings Renegade Baseball/Softball Glove Series ",
-        "price" : "49.99",
-        "description" : "Designed as a utility glove for any position, this renegade 13 inch FB/basket web baseball/softball glove has a game ready feel right out of the box thanks to the 90 percentage rawlings factory break in; Ideal for recreational baseball, slowpitch softball and fastpitch softball players; Durable and lightweight pro mesh back design for optimal balance, added quickness, and shape retention; Extra comfort and protection thanks to the high density cushioned palm and index finger pads",
-        "ratings" : 4.2,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Sports",
-        "seller" : "Rawlings",
-        "stock" : 47,
-        "numOfReviews" : 139,
-        "reviews": []
-    },
-    {
-        "name" : "Wilson NFL Super Grip Football",
-        "price" : "14.50",
-        "description" : " Football is a game of will. Take hold of the game with the NFL Supergrip. Made with a high-performance composite material, this football offers the ideal blend of durability; Bring the Big Game to the Backyard; Tacky material for enhanced grip; Synthetic cover, ready for play; Multi-layered lining for consistent shape and durability",
-        "ratings" : 4.9,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Sports",
-        "seller" : "Wilson",
-        "stock" : 363,
-        "numOfReviews" : 346,
-        "reviews": []
-    },
-    {
-        "name" : "Riddell SpeedFlex Adult Football Helmet with Facemask, Large",
-        "price" : "619.99",
-        "description" : "Patented Side Impact Protection (PISP) helps reduce force from side impacts. The Flex System is flexibility engineering into the shell, facemask and clip to reduce impact force; Protection Varsity Helmet - Utilizes a shell constructed of a polycarbonate material. ",
-        "ratings" : 4.0,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Sports",
-        "seller" : "Riddell",
-        "stock" : 2,
-        "numOfReviews" : 4,
-        "reviews": []
-    },
-    {
-        "name" : "Wilson Pro Staff 97 v13 Tennis Racquet",
-        "price" : "229.00",
-        "description" : "Lighter weight version of Roger Federer's Pro Staff RF97 Autograph; Braid 45 construction arranges the double braided fibers at 45 degree angles for enhanced pocketing feel alongside incredible stability; String Mapping provides a denser string bed for excellent precision and feel, New Ergonomic End Cap yields improved comfort and playability; Modern design gives nod to classic Pro Staff heritage with black elastic base, exposed carbon fiber weave with gloss finish at the tip and red/yellow pinstripes along the throat",
-        "ratings" : 4.9,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Sports",
-        "seller" : "Wilson",
-        "stock" : 7,
-        "numOfReviews" : 15,
-        "reviews": []
-    },
-    {
-        "name" : "Wilson Strike Badminton Racquet",
-        "price" : "29.99",
-        "description" : "Game type: power player/single; Composite t-joint; Racquet comes strung",
-        "ratings" : 3.0,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Sports",
-        "seller" : "Wilson",
-        "stock" : 14,
-        "numOfReviews" : 21,
-        "reviews": []
-    },
-    {
-        "name" : "Outdoor Solar Lights, AmeriTop 128 LED 800LM Wireless LED Solar Motion Sensor Lights, 2 Pack",
-        "price" : "39.99",
-        "description" : "Ultra Bright Solar Motion Sensor Lights - The AmeriTop solar security light with the three heads design, equipped with 128 super bright LED beads, produce up to 800lm 6500K high brightness output and good heat dissipation.. The conversion rate of our upgraded polycrystalline silicon solar panels is as high as 20%. Incredible photocell efficiency, also working great in winter; Enhanced PIR Motion Inductor - With upgraded wide-angle motion detector, our solar led security light detects motion up to 26 feet within an angle of 120 agrees. Automatically turns off during the day and will only turn on when it senses movement at night. The light will turn off after 30 seconds of no movement; Wide Lighting Area - Adjustable heads can move vertically and horizontally. Up to 270° wide lighting angle and 16-26ft sensing distance. Lighting direction is adjustable with the three flexible light heads; All-Weather Resistant - AmeriTop solar lights outdoor Made of durable ABS material, ensuring that it can stand up to the elements and bad weather. The product has an IP65 waterproof rating. It's specifically designed to withstand extreme weather conditions; Wireless Motion Sensor Lights - Easy Installation, no annoying wires or adapters needed. Only using the included screws to fix on any exterior wall constructed of all types of material including metal, wood or plastic; 2200 mAh rechargeable lithium-ion battery.",
-        "ratings" : 2.1,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Outdoor",
-        "seller" : "Amazon",
-        "stock" : 4,
-        "numOfReviews" : 35,
-        "reviews": []
-    },
-    {
-        "name" : "Grand patio Outdoor 12 FT Offset Umbrella with Base Included, Curved and Cantilevered, Aluminum, Brick Red",
-        "price" : "499.99",
-        "description" : "BASE INCLUDED: Includes base with integrated wheels for easy repositioning. Innovative metal reinforcement with adjusting levelers hidden under the base for increased stability in windy conditions. The base must be filled with sand or water for stability and safe use. Product will arrive in two packages; PREMIUM POLYESTER MATERIAL: Canopy is made of double-coated heavy duty 250g polyester, water-resistant, UV protected and fade-resistant. It offers 99% UV protection. Canopy includes air vent for added stability in high winds; STURDY & DURABLE FRAME: Rust-proof, powder-coated aluminum pole. 8 rust-resistance powder coated steel ribs; EASY TO OPERATE: Easily opened and closed with handle and crank lift operating mechanism, while the innovative position auto-lock allows you to adjust opening angle to any position; CAUTION & CARE: Cover and store at night or during extreme weather conditions to avoid damage and ensure the longevity of your new umbrella. ",
-        "ratings" : 4.2,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Outdoor",
-        "seller" : "Amazon",
-        "stock" : 23,
-        "numOfReviews" : 49,
-        "reviews": []
-    },
-    {
-        "name" : "Char-Broil Performance 4-Burner Cart Style Liquid Propane Gas Grill, Stainless Steel",
-        "price" : "299.99",
-        "description" : "Power Source: Propane/liquid petroleum gas. The propane tank is not included; Exclusive Stainless Steel finish for increased style and durability; Reliable electric ignition to fire up your grill and 10,000 BTU side burner; Porcelain-coated grease pan is durable and can be removed for easy cleaning; Stainless Steel burners emit flame from the top to allow for even cooking; Porcelain coated cast-iron grates are rust-resistant and made to last",
-        "ratings" : 4.5,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Outdoor",
-        "seller" : "Amazon",
-        "stock" : 12,
-        "numOfReviews" : 139,
-        "reviews": []
-    },
-    {
-        "name" : "Keter Pacific Cool Bar Outdoor Patio Furniture and Hot Tub Side Table with 7.5 Gallon Beer and Wine Cooler, Brown",
-        "price" : "82.50",
-        "description" : " IDEAL SIZE: Dimensions: 19.5 D x 33.2 H in.; POP UP TOP: Lid elevates upwards 10 inches above the rim for use as a cocktail table; HIDDEN COOLER: 7.5 gallon drink storage capacity to handle up to forty 12 oz. cans with ice; RESIN CONSTRUCTION: It's made out of all weather-resistant resin with an appealing rattan-look texture; EASY CLEANUP: Drainage plug for easy cleanup in a pinch; GIFTS FOR DAD: The perfect gift and bar accessory for the #1 BBQ Grill Master in your life; VERSATILE USE: Use as a patio coffee table, bar table, drink cooler, and raised hot tub table",
-        "ratings" : 3.7,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Outdoor",
-        "seller" : "Amazon",
-        "stock" : 22,
-        "numOfReviews" : 79,
-        "reviews": []
-    },
-    {
-        "name" : "Sports Exercise & Fitness Equipment Speed & Agility Training Kit Combo Set",
-        "price" : "99.99",
-        "description" : "Agility Kit is an ideal way to improve your speed, agility, balance, coordination and stamina for any sport; Agility Kit Includes 3 x 6in hurdles, 3 x 9in hurdles, 3 x 12in Hurdles, 20 Space Markers, 1 x speed resistor, 1 x evasion belt, 1 x speed chute, 1 x reaction ball & 2 x 4m ladders; Comes with carry bag",
-        "ratings" : 4.7,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Sports",
-        "seller" : "Amazon",
-        "stock" : 225,
-        "numOfReviews" : 436,
-        "reviews": []
-    },
-    {
-        "name" : "Spalding Basketball TF-500",
-        "price" : "29.99",
-        "description" : "Official size and weight: Size 7, 29.5 inches; Premium composite cover; Shipped inflated and game ready; Designed for indoor play",
-        "ratings" : 4.9,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Sports",
-        "seller" : "Spalding",
-        "stock" : 184,
-        "numOfReviews" : 632,
-        "reviews": []
-    },
-    {
-        "name" : "Coleman Sundome Tent",
-        "price" : "49.99",
-        "description" : " Dome tent with a sturdy frame that withstands 35+ mph winds; Easy setup in only 10 minutes. Good for backpacking; Weathertec system with patented welded floors and inverted seams to keep you dry; Large windows and a ground vent for superior ventilation; Measures 7 x 5 feet with 4-foot center height",
-        "ratings" : 4.8,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Outdoor",
-        "seller" : "Coleman",
-        "stock" : 79,
-        "numOfReviews" : 174,
-        "reviews": []
-    },
-    {
-        "name" : "Excedrin Extra Strength Caplets for Headache Pain Relief 1 Pack of 300 Count",
-        "price" : "17.99",
-        "description" : "Relief for headaches, migraines and other types of pain; Combination of acetaminophen, aspirin and caffeine; Trusted, quick relief; 300 count caplets",
-        "ratings" : 4.5,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Health",
-        "seller" : "Amazon",
-        "stock" : 548,
-        "numOfReviews" : 539,
-        "reviews": []
-    },
-    {
-        "name" : "Benadryl Allergy 60 Packets 2 Tablets, 120 Count, 2 Packs of 60 each",
-        "price" : "16.99",
-        "description" : "2 ultratabs per packet, 60 packets total; Temporarily relieves allergy and cold symptoms; Each tablet contains 25 mg diphenhydramine hci antihistamine; Relieves allergy symptoms of: sneezing, runny nose, itchy nose or throat, and itchy, watery eyes; Relieves cold symptoms of: sneezing and runny nose",
-        "ratings" : 4.5,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Health",
-        "seller" : "Amazon",
-        "stock" : 134,
-        "numOfReviews" : 329,
-        "reviews": []
-    },
-    {
-        "name" : "Quaker Bars Granola Bars 5 Flavor 58ct, Chewy & Dipps Variety Pack, 58 Count",
-        "price" : "12.99",
-        "description" : "Includes 58 individually wrapped granola bars you can enjoy at home, at school, or on the go; Features 12 chocolate chip, 12 peanut butter chocolate chip, and 10 s'mores flavor Chewy granola bars, plus 12 chocolate chip and 12 peanut butter flavor Chewy Dipps chocolate covered granola bars; Made with real rich chocolate, indulgent peanut butter-flavored chips, and toasted granola; Packed with 8 grams of 100% whole grains per bar. No high-fructose corn syrup; At only 150 calories or less per bar, Quaker Chewy and Dipps bars are a perfect snack for any occasion",
-        "ratings" : 4.0,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Food",
-        "seller" : "Amazon",
-        "stock" : 184,
-        "numOfReviews" : 632,
-        "reviews": []
-    },
-    {
-        "name" : "Wonderful Halos Mandarins, 3lb Bag",
-        "price" : "5.99",
-        "description" : " PACK SIZE: 3lbs; EXCELLENT SOURCE OF VITAMIN C: Just two medium Halos gives you half your daily value of Vitamin C and 100% of your daily value of Pure Goodness; SWEET SEEDLESS & EASY TO PEEL: We're picky about our fruit, and we check our fruit for quality because only the best mandarins earn their halos; GREAT FOR ALL AGES: Halos are a sweet and healthy snack, making them perfect for a mid-day pick-me-up or a post-workout energy boost ",
-        "ratings" : 4.0,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Food",
-        "seller" : "Amazon",
-        "stock" : 32,
-        "numOfReviews" : 139,
-        "reviews": []
-    },
-    {
-        "name" : "McCormick Garlic, Herb and Black Pepper and Sea Salt All Purpose Seasoning, 4.37 oz",
-        "price" : "3.50",
-        "description" : "Made with real McCormick herbs and spices; Convenient shake-on-anything blend of savory, spicy and herby flavors; Gluten Free, Certified Paleo and Non GMO; Sprinkle on meat or vegetables before grilling or roasting; Add to meatloaf, slow cooker dishes, potatoes or cauliflower",
-        "ratings" : 3.5,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Food",
-        "seller" : "Amazon",
-        "stock" : 52,
-        "numOfReviews" : 79,
-        "reviews": []
-    },
-    {
-        "name" : "adidas Men's Lite Racer Adapt 3.0 Running Shoe, size 10",
-        "price" : "63.99",
-        "description" : "100% Synthetic Textile; Made in USA or Imported; Rubber sole; Men's slip-on sneakers made for all-day wear; Sock-like fit; Textile upper for lightweight comfort, Rubber outsole for durability and traction; This product is made with Primegreen, a series of high-performance recycled materials.",
-        "ratings" : 4.5,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Shoes",
-        "seller" : "Adidas",
-        "stock" : 33,
-        "numOfReviews" : 49,
-        "reviews": []
-    },
-    {
-        "name" : "Crocs Unisex-Adult Classic Tie Dye Clog, (7 Womens/5 Mens)",
-        "price" : "53.99",
-        "description" : "100% Synthetic; Imported; Synthetic sole; Heel measures approximately 0.77in.; CROCS CLASSIC TIE DYE CLOG: Timeless, fun and full of peaceful good vibes, the bright tie dye Crocs for men and women add the perfect groovy statement to any style; GROOVY STYLE: Grounded in comfort and spiked with personality for all ages. The women's and men's shoe is ready to rock wherever you choose to roll; ICONIC COMFORT: From downtime to downtown, these mule clogs are flexible and made of Croslite material for Iconic Crocs Comfort. The pivoting heel strap offers a secure fit and trendy look.",
-        "ratings" : 4.7,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Shoes",
-        "seller" : "Crocs",
-        "stock" : 15,
-        "numOfReviews" : 169,
-        "reviews": []
-    },
-    {
-        "name" : "Timex Weekender Chronograph 40mm Watch",
-        "price" : "50.99",
-        "description" : "Adjustable tan 20mm double-layered genuine leather slip-thru strap fits up to 8-inch wrist circumference; Cream dial with date window at 4 o'clock; full Arabic numerals; 24-hour military time; 30-minute chronograph measures to 1/20th second; Silver-tone 40mm brass case with mineral glass crystal; Indiglo light-up watch dial; luminous hands; Water resistant to 30m (100ft): in general, withstands splashes or brief immersion in water, but not suitable for swimming or bathing",
-        "ratings" : 4.2,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Accessories",
-        "seller" : "Timex",
-        "stock" : 47,
-        "numOfReviews" : 129,
-        "reviews": []
-    },
-    {
-        "name" : "Tommy Hilfiger Men's Leather Wallet – Slim Bifold with 6 Credit Card Pockets and Removable Id Window",
-        "price" : "23.99",
-        "description" : "100% Cow Leather; Imported; Leather lining; Bifold closure; 5.28 x 0.6 x 4.72 inches; 0.16 lbs; FUNCTIONAL: This Tommy Hilfiger passcase billfold wallet offers you 4 inner card pockets, 2 hidden pockets, 1 large bill compartment, 1 removable cardholder, and 1 thumb ID window",
-        "ratings" : 3.7,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Accessories",
-        "seller" : "Tommy Hilfiger",
-        "stock" : 92,
-        "numOfReviews" : 134,
-        "reviews": []
-    },
-    {
-        "name" : "Tommy Hilfiger Men's Tie, Navy Dotted Red",
-        "price" : "13.99",
-        "description" : "100% Silk; Imported; Tie closure; Dry Clean Only; 3 1/8in wide; Dotted Red; Signature contrast tail",
-        "ratings" : 4.7,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Accessories",
-        "seller" : "Tommy Hilfiger",
-        "stock" : 149,
-        "numOfReviews" : 195,
-        "reviews": []
-    },
-    {
-        "name" : "Pandora Jewelry Timeless Elegance Stud Cubic Zirconia Earrings in Sterling Silver",
-        "price" : "80.00",
-        "description" : " These Stunning Sterling Silver Stud Earrings Feature A Cubic Zirconia (Cz) Halo Around The Danube-cut center stone. Conveying a sense of timeless beauty, they will put a glamorous spin on even the most basic outfit; one size, Clear; Earring studs",
-        "ratings" : 3.4,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Accessories",
-        "seller" : "PANDORA",
-        "stock" : 183,
-        "numOfReviews" : 592,
-        "reviews": []
-    },
-    {
-        "name" : "Fossil Men's Stainless Steel and Beaded Bracelet, Lava/Agate",
-        "price" : "38.00",
-        "description" : "Upgrade your morning meetings and date night plans with stackable bracelets, dainty necklaces, or statement-making earrings; Each of our jewelry pieces was designed to wow and beautifully packaged in a Fossil branded vintage tin - making it the perfect gift; Jewelry For Men That’s Sleek & Iconic. Pick the colors that you love to wear, braided leather, beads or steel – the choice is up to you on how you want to make our jewelry for men something that’s totally you; This bracelet features lava stone and black agate beads, stainless steel and a lobster clasp closure; Measurements: Inner Length: 6.8in + .59in extension",
-        "ratings" : 4.0,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Accessories",
-        "seller" : "Fossil",
-        "stock" : 199,
-        "numOfReviews" : 349,
-        "reviews": []
-    },
-    {
-        "name" : "UGG Women's Tasman Slipper, Size 9, Dark Grey",
-        "price" : "100.00",
-        "description" : "Leather and Textile; Imported Dyed sheep fur from Australia; Synthetic sole; Shaft measures approximately low-top from arch; Vamp and quarters lined with fur. UGGpure wool insole. Contains real fur from sheep or lamb; Suede upper. Nylon binding; EVA outsole",
-        "ratings" : 4.9,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Shoes",
-        "seller" : "UGG",
-        "stock" : 345,
-        "numOfReviews" : 597,
-        "reviews": []
-    },
-    {
-        "name" : "Clarks Men's Tilden Walk Oxford, Dark Tan, Size 13",
-        "price" : "61.49",
-        "description" : "100% Leather; Imported; Synthetic sole; Breathable leather; Flexible sole; Non-marking outsole; Extremely lightweight; Memory foam insole; Lining Material - Fabric",
-        "ratings" : 2.5,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Shoes",
-        "seller" : "Clarks",
-        "stock" : 19,
-        "numOfReviews" : 94,
-        "reviews": []
-    },
-    {
-        "name" : "2020 HP 15 15.6in HD Touchscreen Premium Laptop - 10th Gen Intel Core i5-1035G1, 16GB DDR4, 512GB SSD, USB Type-C, HDMI, Windows 10 - Silver W",
-        "price" : "729.99",
-        "description" : "Fast Processor 10th Generation intel(r) core(tm) i5-1035g1 Processor quad-core 1.0 GHz Base frequency up to 3.6 GHz with Intel's) Turbo Boost Technology; Display 15.6 Inch diagonal HD SVA bright View micro-edge WLED-backlit touchscreen display (1366 x 768); Fast boot up with SSD Boot up in seconds transfer files without waiting hours and enjoy a snappier experience with the internal solid-state drive 512 GB pcie(r) nvme(tm) M 2 Solid State Drive; 1 HDMI 1 4b 1 headphone/microphone combo 1 USB 3.1 Type-C Gen 1 (Data Transfer up to 5 Gb/s) 2 USB 3.1 Gen 1 (Data transfer only) 1 AC smart pin; Windows 10 Home No DVD",
-        "ratings" : 2.2,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Laptops",
-        "seller" : "HP",
-        "stock" : 31,
-        "numOfReviews" : 149,
-        "reviews": []
-    },
-    {
-        "name" : "Lenovo Business S340 Laptop - Linux Mint 19 (Cinnamon) - Intel i7-8550U, 20GB RAM, 1TB Hard Disk Drive, 15.6in HD 1366x768 Display, Fast Charging",
-        "price" : "1139.99",
-        "description" : " Intel Core i7-8550U (8M Cache, up to 4.00 GHz) - 1TB Hard Disk Drive - 20GB DDR4 SDRAM; 15.6in HD (1366x768) Non-Touch Display - Intel UHD 620 Integrated Graphics - Stereo Speakers; Built in HD 720p Webcam with Microphone - Intel Dual Band Wireless-AC (2x2) 8265, Bluetooth Version 4.1; I/O Ports: 2x USB 3.0, 2x USB Type-C, Headphone/Mic Combo Port, 4-in-1 Card Reader, RJ-45 Ethernet, HDMI; Linux Mint 19 (Cinnamon) 64-Bit - Keyboard with Full NumberPad",
-        "ratings" : 4.9,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Laptops",
-        "seller" : "Lenovo",
-        "stock" : 19,
-        "numOfReviews" : 9,
-        "reviews": []
-    },
-    {
-        "name" : "Dell Inspiron 15 3000 Laptop (2021 Latest Model), 15.6in HD Display, Intel N4020 Dual-Core Processor, 8GB RAM, 256GB SSD, Webcam, HDMI, Bluetooth, Wi-Fi, Black, Windows 10 Pro",
-        "price" : "463.99",
-        "description" : "Upgraded- Enjoy up to 15x faster performance than a traditional hard drive with 256GB Solid State and experience improved multitasking with higher bandwidth thanks to 8GB of RAM; Processor- Intel Celeron N4020 1.1GHz Dual-Core Processor (4MB Cache, Up to 2.8GHz); Display- 15.6-inch HD (1366 x 768) Anti-glare LED-Backlit Non-touch Narrow Border Display; Operating System -Windows 10 Pro 64-Bit",
-        "ratings" : 4.1,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Laptops",
-        "seller" : "Dell",
-        "stock" : 137,
-        "numOfReviews" : 69,
-        "reviews": []
-    },
-    {
-        "name" : "ASUS VivoBook 17.3in FHD IPS LED Backlight Premium Laptop | AMD Ryzen3 3250U | 20GB DDR4 RAM | 512GB SSD | USB Type-C | WiFi | HDMI | Windows 10",
-        "price" : "647.88",
-        "description" : "Substantial high-bandwidth 20GB RAM to smoothly run your games and photo- and video-editing applications, as well as multiple programs and browser tabs all at once. A flash-based 512GBSSD has no moving parts, resulting in faster start-up times and data access, no noise, and reduced heat production and power draw on the battery; AMD Ryzen 3 3250U Mobile Processor -2 cores, 4 threads, up to 3.5GHz. Uplift your performance and multitask seamlessly with accelerated power and efficiency, while enjoying stunning HD visuals; 17.3in FHD IPS Display -The 1920×1080 resolution boasts impressive color and clarity. Supports 720p content. The new 4-way NanoEdge display provides an amazing 85% screen-to-body ratio for visual that draw you in; AMD Radeon Graphics -On-processor graphics with shared video memory provide everyday image quality for Internet use, basic photo editing and casual gaming; Other Features-Its precision-engineered ErgoLift hinge has a silky-smooth dual action that holds the display securely at any angle, and tilts the keyboard slightly to give you a perfect typing position every time. ",
-        "ratings" : 3.0,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Laptops",
-        "seller" : "ASUS",
-        "stock" : 3,
-        "numOfReviews" : 35,
-        "reviews": []
-    },
-    {
-        "name" : "Acer Nitro 5 Gaming Laptop, 10th Gen Intel Core i5-10300H,NVIDIA GeForce GTX 1650 Ti, 15.6in Full HD IPS 144Hz Display, 8GB DDR4,256GB NVMe SSD, WiFi 6, DTS X Ultra, Backlit Keyboard, AN515-55-59KS",
-        "price" : "713.99",
-        "description" : " 10th Generation Intel Core i5-10300H Processor (Up to 4.5GHz); 15in Full HD Widescreen IPS LED-backlit 144Hz Refresh Display; NVIDIA GeForce GTX 1650 Ti Graphics with 4 GB of dedicated GDDR6 VRAM; 8GB DDR4 2933MHz Memory; 256GB NVMe SSD (2 x PCIe M.2 Slots - 1 Slot Open for Easy Upgrades) & 1 - Available Hard Drive Bay; LAN: Killer Ethernet E2600 10/100/1000 Gigabit Ethernet LAN; Wireless: Intel Wireless Wi-Fi 6 AX201 802.11ax; Backlit Keyboard; Acer CoolBoost Technology with Twin Fans and Quad Exhaust Ports Design; Windows 10 Home Edition",
-        "ratings" : 4.6,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Laptops",
-        "seller" : "Acer",
-        "stock" : 124,
-        "numOfReviews" : 194,
-        "reviews": []
-    },
-    {
-        "name" : "KODAK Printomatic Digital Instant Print Camera - Full Color Prints On ZINK 2x3in Sticky-Backed Photo Paper (Blue)",
-        "price" : "49.99",
-        "description" : " ALL-IN-ONE PHOTOGRAPY - The Point-and-Shoot Printomatic Camera offers a powerful 5MP sensor and wide angle f/2 lens. The Printomatic is the ideal all-in-one solution for capturing and sharing vibrant prints instantaneously wherever you are; FAST EASY AND FUN - This point and shoot the camera speed allows you to shoot a new photo while printing the previous shot. It also comes equipped with a light sensor that will automatically turn on the flash in low-light settings; ONE STOP PRINTING - The Kodak Printomatic camera instantly prints 2x3” photos. The camera uses Kodak Zink Photo Paper, so no ink cartridges, toners or film are needed. The photo prints are durable, water-resistant, tear resistant and smudge free; CHARMING DESIGN - Comes in variety of fun, bold colors. Compact design slips neatly into your shirt pocket. Make it easy to carry around as you go about your day, ensuring you always have your printomatic with you; INSTANT VALUE - Despite its many digital technological advancements the Kodak Printomatic Camera is an easy-to-use product. The camera has slots for attaching a neck strap, and saves photos to a MicroSD card",
-        "ratings" : 4.0,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Cameras",
-        "seller" : "KODAK",
-        "stock" : 183,
-        "numOfReviews" : 95,
-        "reviews": []
-    },
-    {
-        "name" : "Canon EOS Rebel T7 DSLR Camera Bundle with Canon EF-S 18-55mm f/3.5-5.6 is II Lens + 2pc SanDisk 32GB Memory Cards + Accessory Kit",
-        "price" : "599.99",
-        "description" : "This Camera Bundle Kit comes complete with all manufacturer supplied accessories and includes: The EOS Rebel T7 DSLR Camera from Canon has a 24.1MP APS-C CMOS Sensor and DIGIC 4+ Image Processor. It has a 3.0in 920k-Dot LCD Monitor with Full HD 1080/30p Video Recording capabilities. It offers sharp details, accurate colors and low-noise imaging in both bright and low-light shooting situations. The Rebel T& can continuously shoot up to 3 fps; Canon 18-55mm II Lens - a standard zoom compatible with Canon APS-C format cameras. It features a focal length range of 18-55mm which is equivalent to 29-88mm in the 35mm format; 2 x SanDisk 32GB SDHC Memory Cards + Deluxe Padded Camera Case + Flash Light + 3pc Filter Kit + Extra Battery Pack + AC/DC Car & Home Charger + High Speed USB Card Reader + 50in Camera Tripod; 0.43x Auxiliary Wideangle Lens - it conveniently mounts to the front of your fixed or zoom lens, and allows you to capture a wider field of view, 2.2x Auxiliary Telephoto Lens - brings you twice as close to the action. Perfect for long-distance photo situations such as sporting events ",
-        "ratings" : 4.9,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Cameras",
-        "seller" : "Canon",
-        "stock" : 57,
-        "numOfReviews" : 634,
-        "reviews": []
-    },
-    {
-        "name" : "Canon Powershot SX720 (Red) Point & Shoot Digital Camera + Accessory Bundle + Model Electronics Cloth",
-        "price" : "249.99",
-        "description" : " Canon SX720 Red possesses a 20.3MP 1/2.3in CMOS Sensor; 40x Zoom Lens, 24-960mm (35mm Equiv.); 3.0in 922k-Dot LCD Monitor; Full HD 1080p Video Recording at 60 fps; This Bundle Includes: Canon SX720 Red, 32 GB Card, 7in Spider Tripod, Lens Cleaning Kit, BP-BC1 Camera Carry Case",
-        "ratings" : 1.5,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Cameras",
-        "seller" : "Canon",
-        "stock" : 2,
-        "numOfReviews" : 75,
-        "reviews": []
-    },
-    {
-        "name" : "Fujifilm FinePix F500EXR 16 MP CMOS Digital Camera with Fujinon 15x Super Wide Angle Zoom Lens",
-        "price" : "349.95",
-        "description" : " 16-megapixel EXR-CMOS sensor; 15x wide-angle optical zoom lens,EXR AUTO recognizes 27 scenes; Motion Panorama 360 mode; High-speed continuous shooting; Multi-frame technology, PAL selectable; SD/SDHC/SDXC memory card slot (card NOT included); Intelligent Image Stabilization; 3.0-inch High-Contrast LCD; Capture movies in Full HD 1080p resolution; mini HDMI port; Capture images and video to SD/SDHC memory cards (not included); 16 million effective pixels; 1/2 inch BSI EXR CMOS sensor; 15x optical zoom lens plus approx. 5x digital zoom; 3.0 inch LCD display; Full HD video 1080p with stereo sound",
-        "ratings" : 3.1,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Cameras",
-        "seller" : "Fujifilm",
-        "stock" : 7,
-        "numOfReviews" : 51,
-        "reviews": []
-    },
-    {
-        "name" : "Fujifilm Instax Mini 11 Instant Camera + Instax Mini Twin Pack Film + Hanging Frames + Plastic Frames + Case + Close Up Filters - All Inclusive Bundle! (Charcoal Grey)",
-        "price" : "89.99",
-        "description" : " NEW FUJIFILM MINI 11 - Camera included in this kit with a total of 20 film sheets; ONE-TOUCH SELFIE MODE - To keep your process streamlined, the Mini 11 has a built-in selfie mirror and macro mode. Instead of attaching an entire close-up lens attachment, just pull the lens barrel out until the “selfie mode” mark appears; AUTOMATIC EXPOSURE - The Mini 11 automatically chooses the perfect shutter speed depending on your lighting. The addition of this feature makes it easier than ever to avoid under and overexposed photos; CREDIT CARD SIZE - 5.4 cm x 8.6 cm: the unique credit-card sized film is easy to carry in your purse or wallet and has unique color borders to add style to your images. Leave them blank or personalize with a fun message.",
-        "ratings" : 4.9,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Cameras",
-        "seller" : "Fujifilm",
-        "stock" : 284,
-        "numOfReviews" : 634,
-        "reviews": []
-    },
-    {
-        "name" : "Panasonic LUMIX G7 4K Mirrorless Camera, with 14-140mm Power O.I.S. Lens, 16 Megapixels, 3 Inch Touch LCD, DMC-G7HK",
-        "price" : "895.99",
-        "description" : " Superb DSLM image quality without the bulk and weight of traditional DSLRs; Never miss a photo with three unique 4K Ultra HD Video pause and save 4K Photo Modes; Fast and precise auto focusing tracks the subject.Focal Length f=14-140mm (35mm camera equivalent 28-280mm). Aperture Type 7 diaphragm blades / Circular aperture diaphragm. Aperture range F3.5(Wide) - F5.6(TELE); Class-leading, ultra-compact, interchangeable lens and accessory options. Operating temperature:0℃ to 40℃ (32°F to 104°F); Unwire Your Creativity with integrated Wi-Fi sharing",
-        "ratings" : 4.7,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Cameras",
-        "seller" : "Panasonic",
-        "stock" : 38,
-        "numOfReviews" : 143,
-        "reviews": []
-    },
-    {
-        "name" : "Saucony Men's Multi-pack Mesh Ventilating Comfort Fit Performance No-Show Socks",
-        "price" : "13.99",
-        "description" : "98% Polyester, 2% Spandex; Imported; Machine Wash; Run Dry Moisture Management Provides Superior Moisture Transport with our Ultra Wicking Fibers. So, Whether you're in the Gym or on the Road, your Feet Stay Fresh; Airmesh Venting. Mesh Ventilation Construction Creates Maximum Airflow to Keep Your Feet Cool and Dry in any Running Conditions; Targeted Arch Compression Engineered with Just the Right Amount of Compression to Keep your Arch Stabile and Secure. Our Arch Support System also Prevents Bunching and Helps Keep Your Sock From Slipping.",
-        "ratings" : 4.7,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Clothes",
-        "seller" : "Saucony",
-        "stock" : 837,
-        "numOfReviews" : 194,
-        "reviews": []
-    },
-    {
-        "name" : "Champion Men's 6-Pack Double Dry Moisture Wicking Logo Crew Socks ",
-        "price" : "12.00",
-        "description" : "97% Polyester, 2% Spandex, 1% Other Fibers; Imported; Pull On closure; Machine Wash; Double dry wicking; Arch support for better fit; Cushioned foot bottom",
-        "ratings" : 4.9,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Clothes",
-        "seller" : "Champion",
-        "stock" : 932,
-        "numOfReviews" : 482,
-        "reviews": []
-    },
-    {
-        "name" : "Robert Langdon Series Collection 7 Books Set By Dan Brown",
-        "price" : "40.99",
-        "description" : "Angels And Demons: The Vatican, Rome: the College of Cardinals assembles to elect a new pope. Somewhere beneath them, an unstoppable bomb of terrifying power relentlessly counts down to oblivion; The Da Vinci Code: Harvard professor Robert Langdon receives an urgent late-night phone call while on business in Paris: the elderly curator of the Louvre has been brutally murdered inside the museum; The Lost Symbol: The Capitol Building, Washington DC: Harvard symbologist Robert Langdon believes he is here to give a lecture. He is wrong. Within minutes of his arrival, a shocking object is discovered; Inferno: Florence: Harvard symbologist Robert Langdon awakes in a hospital bed with no recollection of where he is or how he got there. Nor can he explain the origin of the macabre object that is found hidden in his belongings; Origin: Robert Langdon, Harvard professor of symbology and religious iconology, arrives at the Guggenheim Museum Bilbao to attend the unveiling of an astonishing scientific breakthrough; Digital Fortress: When the National Security Agency's invincible code-breaking machine encounters a mysterious code it cannot break, the agency calls in its head cryptographer, Susan Fletcher, a brilliant, beautiful mathematician; Deception Point: When a new NASA satellite detects evidence of an astonishingly rare object buried deep in the Arctic ice, the floundering space agency proclaims a much-needed victory.",
-        "ratings" : 4.8,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Books",
-        "seller" : "Amazon",
-        "stock" : 23,
-        "numOfReviews" : 105,
-        "reviews": []
-    },
-    {
-        "name" : "The Master and Margarita by Mikhail Bulgakov",
-        "price" : "13.49",
-        "description" : "In The Master and Margarita, the Devil himself pays a visit to Soviet Moscow. Accompanied by a retinue that includes the fast-talking, vodka-drinking, giant tomcat Behemoth, he sets about creating a whirlwind of chaos that soon involves the beautiful Margarita and her beloved, a distraught writer known only as the Master, and even Jesus Christ and Pontius Pilate. The Master and Margarita combines fable, fantasy, political satire, and slapstick comedy to create a wildly entertaining and unforgettable tale that is commonly considered the greatest novel to come out of the Soviet Union. It appears in this edition in a translation by Mirra Ginsburg that was judged 'brilliant' by Publishers Weekly.",
-        "ratings" : 4.3,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Books",
-        "seller" : "Amazon",
-        "stock" : 23,
-        "numOfReviews" : 39,
-        "reviews": []
-    },
-    {
-        "name" : "The Catcher in the Rye by J.D. Salinger",
-        "price" : "6.99",
-        "description" : "The Catcher in the Rye, novel by J.D. Salinger published in 1951. The novel details two days in the life of 16-year-old Holden Caulfield after he has been expelled from prep school. Confused and disillusioned, Holden searches for truth and rails against the “phoniness” of the adult world.",
-        "ratings" : 4.9,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Books",
-        "seller" : "Amazon",
-        "stock" : 193,
-        "numOfReviews" : 392,
-        "reviews": []
-    },
-    {
-        "name" : "Wrangler Authentics Men’s Classic Relaxed Fit Flex Jean, Standard, 30W x 30L",
-        "price" : "28.99",
-        "description" : "99% Cotton, 1% Spandex; Imported; Zipper closure; Machine Wash; RELAXED FIT. Built with a relaxed fit through the seat and thigh, this classic five-pocket jean sits at the natural waist for a comfortable fit; DURABLE MATERIALS. Made with durable flex denim, these jeans are built to last and will allow you to move with comfort throughout the day; FUNCTION MEETS STYLE. From a lunch date to a night out, this stretch denim jean is built for comfort and durability. Designed with a timeless fit, these jeans will be your new closet staple; HEAVY-DUTY HARDWARE. Finished with heavy duty hardware for long-lasting quality. Brass zipper fly, button closure and durable reinforced stitching; FIVE POCKET STYLING. This jean is constructed with an authentic five pocket styling: (1) watch pocket, (2) front scoop pockets, (3) back patch pockets.",
-        "ratings" : 3.2,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Clothes",
-        "seller" : "Wrangler",
-        "stock" : 101,
-        "numOfReviews" : 78,
-        "reviews": []
-    },
-    {
-        "name" : "Levi's Men's 559 Relaxed Straight Jean, Navarro, 30W x 30L",
-        "price" : "39.99",
-        "description" : "98% Cotton, 2% Elastane; Imported; Button closure; Wash And Dry Inside Out With Like Colors; Liquid Detergent Is Recommended; Sits below waist; Extra room through seat and thigh; Straight leg; Zip fly and button closure",
-        "ratings" : 4.3,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Clothes",
-        "seller" : "Levi",
-        "stock" : 167,
-        "numOfReviews" : 109,
-        "reviews": []
-    },
-    {
-        "name" : "Linksys AC1900 Smart Wi-Fi Router Home Network, MU-MIMO Dual Band Wireless Gigabit WiFi Router, Fast Speeds up to 1.9 Gbps, coverage up to 1,500 sq ft, Parental Control, up to 15 devices (EA7500-4B)",
-        "price" : "89.99",
-        "description" : " Provides up to 1,500 square feet of Wi-Fi coverage for 10+ wireless devices; Works with existing modem, simple setup through Linksys App. Minimum system requirements-Internet Explorer versions 8 and newer, Safari 5 (for Mac), Firefox 8, Google Chrome; Enjoy 4K HD streaming, gaming and more in high quality without buffering; Dual band Wi-Fi speeds up to 1.7 Gbps (2.4 GHz / 450 Mbps) + (5 GHz / 1300 Mbps); MU MIMO (Multi User Multiple Input Multiple Output) provides Wi-Fi to multiple devices at once, at the same high speed",
-        "ratings" : 4.0,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Electronics",
-        "seller" : "Linksys",
-        "stock" : 198,
-        "numOfReviews" : 238,
-        "reviews": []
-    },
-    {
-        "name" : "Texas Instruments TI-Nspire CX II CAS Color Graphing Calculator with Student Software (PC/Mac)",
-        "price" : "145.99",
-        "description" : "Color Screen. The screen size is 320 x 240 pixels (3.5 inches diagonal) and the screen resolution is 125 DPI; 16-bit color; Rechargeable battery included. Can last up to two weeks on a single charge; Handheld-Software Bundle. Includes the TI-Inspire CX Student Software delivering enhanced graphing capabilities and other functionality; Thin Design and lightweight with easy touchpad navigation. Quick alpha keys; Six different graph styles and 15 colors to select from for differentiating the look of each graph drawn",
-        "ratings" : 4.7,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Electronics",
-        "seller" : "Texas Instruments",
-        "stock" : 329,
-        "numOfReviews" : 547,
-        "reviews": []
-    },
-    {
-        "name" : "JBL Flip 4 Waterproof Portable Bluetooth Speaker - Ocean Blue",
-        "price" : "79.95",
-        "description" : "Wireless Bluetooth Streaming; 12 hours of playtime. Charging time (hrs) 3.5; IPX7 Waterproof; Take Crystal Clear Calls with the Speakerphone; Connect Multiple Speakers with JBL Connect+; Power Source Type: Battery Powered. Output power (W) 2 x 8",
-        "ratings" : 4.9,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Electronics",
-        "seller" : "Adidas",
-        "stock" : 78,
-        "numOfReviews" : 231,
-        "reviews": []
-    },
-    {
-        "name" : "Philips Norelco MG3750 Multigroom All-In-One Series 3000, 13 attachment trimmer",
-        "price" : "19.95",
-        "description" : "13 attachments for all of your grooming needs: Full size steel trimmer, a steel precision trimmer, a nose and ear hair trimmer, 3 hair trimming guards, 3 beard trimming guards, a stubble guard, an accessory travel storage bag, and a cleaning brush. Unlike competition, no oil needed to maintain high quality performance Blades and Guards are easy to detach and rinse; Maximum precision with DualCut technology, which includes 2x more self-sharpening blades. The steel blades sharpen themselves as they work, resulting in blades that remain as sharp as day 1 after 2 years of use; Best selling trimmer from the #1 trimmer brand*; Unlike competition, no oil needed to maintain high quality performance; All Hair Types; The Blade is made out of Metal; The MG3750 is the model number indicated on the packaging, it is part of the Multigroom 3000 series",
-        "ratings" : 4.0,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Health",
-        "seller" : "Philips",
-        "stock" : 395,
-        "numOfReviews" : 482,
-        "reviews": []
-    },
-    {
-        "name" : "Hempz Natural Triple Moisture Herbal Whipped Body Cream with 100% Pure Hemp Seed Oil for 24-Hour Hydration - Moisturizing Vegan Skin Lotion with Yangu Oil, Peach and Grapefruit - Enriched Moisturizer",
-        "price" : "14.95",
-        "description" : "Enriched, Natural Oils: This whipped body lotion possesses both Yangu oil and pure, natural hemp seed oil, which are rich in antioxidants and fatty acids. Skin will retain supple moisture and firmness, with reduced inflammation and oiliness; Nourishing Ingredients for Your Best Skin: Dry, mature skin will be hydrated and conditioned to renew and revive its healthy radiance with Apple Fruit extract. Cogon Grass extract nourishes skin with its potassium, vitamin and mineral properties; Light and Airy Fragrance: Peach and grapefruit are infused in our luxurious skin creme to provide a sweet, calming scent that will last all day. There are no harsh chemicals, so the aroma is not too heavy, and it will not leave behind residue; Ideal Skin Protection: In order to protect your skin from natural and environmentally triggered oxidants, our moisturizers have Vitamins A, C, and E. With our exclusive, all-day triple moisture complex formula, your skin will be healthy and bright; All of the Good, None of the Bad: In addition to the deeply conditioning oils and extracts, this body lotion is 100% Vegan. It contains no parabens, gluten, and it is THC-free, so you can be sure your skin is getting only what it needs.",
-        "ratings" : 4.9,
-        "images" : [{
-            "public_id" : "",
-            "url" : ""
-        }],
-        "category" : "Health",
-        "seller" : "Hempz",
-        "stock" : 103,
-        "numOfReviews" : 345,
+        ],
+        "category": "Electronics",
+        "seller": "Ebay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "CAN USB FD Adapter (GC-CAN-USB-FD)",
+        "price": "315.00",
+        "description": "Monitor a CAN network, write a CAN program and communicate with industrial, medical, automotive or other CAN based device. Connect CAN FD and CAN networks to a computer via USB with the CAN USB FD adapter.",
+        "ratings": 1.65,
+        "images": [
+            {
+                "public_id": "products/61oXGZ60GfL_fixco9",
+                "url": "https://res.cloudinary.com/bookit/image/upload/v1614877995/products/61oXGZ60GfL_fixco9.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Amazon",
+        "stock": 0,
+        "numOfReviews": 2,
+        "reviews": []
+    },
+    {
+        "name": "CHARMOUNT Full Motion TV Wall Mount Swivel",
+        "price": "26.99 ",
+        "description": "CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3). CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3) CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3).",
+        "ratings": 3.5,
+        "images": [
+            {
+                "public_id": "products/chairmount_nuubea",
+                "url": "https://res.cloudinary.com/bookit/image/upload/v1606231285/products/chairmount_nuubea.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Amazon",
+        "stock": 1,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Bose QuietComfort 35 II Wireless Bluetooth Headphones",
+        "price": "299.00 ",
+        "description": "What happens when you clear away the noisy distractions of the world? Concentration goes to the next level. You get deeper into your music, your work, or whatever you want to focus on. That’s the power of Bose QuietComfort 35 wireless headphones II. Put them on and get closer to what you’re most passionate about. And that’s just the beginning. QuietComfort 35 wireless headphones II are now enabled with Bose AR",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "products/headphones_t2afnb",
+                "url": "https://res.cloudinary.com/bookit/image/upload/v1606231281/products/headphones_t2afnb.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 11,
+        "numOfReviews": 112,
+        "reviews": []
+    },
+    {
+        "name": "Apple AirPods with Charging Case (Wired)",
+        "price": "126.99 ",
+        "description": "AirPods with Charging Case: More than 24 hours listening time, up to 18 hours talk time; AirPods (single charge): Up to 5 hours listening time, up to 3 hours talk time or 15 minutes in the case equals up to 3 hours listening time or up to 2 hours talk time.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "products/airpords_e5cqqr",
+                "url": "https://res.cloudinary.com/bookit/image/upload/v1606231282/products/airpords_e5cqqr.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Amazon",
+        "stock": 122,
+        "numOfReviews": 2671,
+        "reviews": []
+    },
+    {
+        "name": "Cable Boom Microphone - Volume Control for Playstation PS4 or Xbox",
+        "price": "27.99",
+        "description": "DESIGN INFO - 3.5mm male to 2.5mm male audio cable adapter with Upgraded Flexible, Detachable Boom Mic which also enables rotary Volume Control and Mute Switch. SteelFlex Arm for perfect microphone positioning. INPUT COMPATIBILITY - Devices supporting 3.5mm audio output such as gaming PS4 / Xbox One controller, PC, Laptop, iPhone and Android Phone.",
+        "ratings": 4.1,
+        "images": [
+            {
+                "public_id": "products/eahhtj1bkn1k9gjgd3hn",
+                "url": "https://res.cloudinary.com/bookit/image/upload/v1606233125/products/eahhtj1bkn1k9gjgd3hn.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Amazon",
+        "stock": 1123,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "Nikon D3500 W/ AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR Black ",
+        "price": "496.95",
+        "description": "You don't need to be a photographer to know a great photo when you see one. And you don't need to be a photographer to take a great photo—you just need the D3500. It's as easy to use as a point-and-shoot, but it takes beautiful DSLR photos and videos that get noticed. It feels outstanding in your hands, sturdy and balanced with controls where you want them. It's compact, durable and versatile, ideal for travel. And it works seamlessly with compatible smartphones, making it easier than ever to share your great photos. Even if you've never picked up a DSLR camera, you can take beautiful pictures with D3500.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/camera_ridc0i",
+                "url": "https://res.cloudinary.com/bookit/image/upload/v1606231283/products/camera_ridc0i.jpg"
+            }
+        ],
+        "category": "Cameras",
+        "seller": "Amazon",
+        "stock": 131,
+        "numOfReviews": 222,
+        "reviews": []
+    },
+    {
+        "name": "Apple MacBook Air (13-inch, 8GB RAM, 256GB SSD Storage) - Space Gray ",
+        "price": "949.99",
+        "description": "Stunning 13.3-inch Retina display with True Tone technology, Backlit Magic Keyboard and Touch ID, Tenth-generation, Intel Core i3 processor, Intel Iris Plus Graphics, Fast SSD storage, 8GB of memory, Stereo speakers with wider stereo sound",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "products/macbook_o2cj2k",
+                "url": "https://res.cloudinary.com/bookit/image/upload/v1606231282/products/macbook_o2cj2k.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Amazon",
+        "stock": 0,
+        "numOfReviews": 56,
+        "reviews": []
+    },
+    {
+        "name": "Kauffman Orchards Homegrown McIntosh Apples",
+        "price": "2.75",
+        "description": "McIntosh is a pretty red/green apple with white flesh Homegrown in Kauffman's orchard in healthy Lancaster County soil McIntosh apples are famous for snacking, pies, salads, and applesauce Protected with soft, high-density foam for safe shipping to your door Not for sale to California, Oregon, or Washington due to state laws governing fresh produce",
+        "ratings": 5,
+        "images": [
+            {
+                "public_id": "products/wmoa49q9e70ze9xtcra2",
+                "url": "https://res.cloudinary.com/bookit/image/upload/v1606293153/products/wmoa49q9e70ze9xtcra2.jpg"
+            },
+            {
+                "public_id": "products/i0k1wdwi5hrpmzwxvsds",
+                "url": "https://res.cloudinary.com/bookit/image/upload/v1606293152/products/i0k1wdwi5hrpmzwxvsds.jpg"
+            },
+            {
+                "public_id": "products/bshmuo9qisfhz4azvnsd",
+                "url": "https://res.cloudinary.com/bookit/image/upload/v1606293153/products/bshmuo9qisfhz4azvnsd.jpg"
+            }
+        ],
+        "category": "Food",
+        "seller": "Kauffman's Fruit Farm & Market",
+        "stock": 500,
+        "numOfReviews": 1,
+        "reviews": []
+    },
+    {
+        "name": "Bose QuietComfort Noise Cancelling Earbuds - True Wireless Earphones, Triple Black",
+        "price": "279.00",
+        "description": "Welcome to the world's most effective noise cancelling earbuds. Fit with 11 levels of noise cancellation, acclaimed Bose sound, comfortable shape, IPX4 water resistant, up to 20 hours of non-stop play, simple touch controls, and Bluetooth 5.1",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "products/bose_earbuds_raktim",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525255/products/bose_earbuds_raktim.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Bose",
+        "stock": 250,
+        "numOfReviews": 49,
+        "reviews": []
+    },
+    {
+        "name": "PlayStation 5 DualSense Wireless Controller",
+        "price": "69.98",
+        "description": "Ready to experience the best that the gaming world has to offer? Introducing the PS5 DualSense controller, with a built-in microphone and head-set jack, adaptive triggers, and haptic feedback. ",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "products/ps5_remote_qcdsew",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525258/products/ps5_remote_qcdsew.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Amazon",
+        "stock": 12,
+        "numOfReviews": 19,
+        "reviews": []
+    },
+    {
+        "name": "Nike Women's Air Zoom Pegasus 36 Running Shoes, Black/White-thunder Grey, Size 9",
+        "price": "134.87",
+        "description": "A shoe designed for world class runners. The Air Zoom Pegasus is light, breathable, and uses ST cushioning to provide maximum support.",
+        "ratings": 4.6,
+        "images": [
+            {
+                "public_id": "products/pegasus_sndkr4",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525254/products/pegasus_sndkr4.jpg"
+            }
+        ],
+        "category": "Shoes",
+        "seller": "Nike",
+        "stock": 15,
+        "numOfReviews": 27,
+        "reviews": []
+    },
+    {
+        "name": "CK Men's Liquid Touch Polo Solid with Uv-Protection",
+        "price": "39.00",
+        "description": "Keep cool with Calvin Klein's distinct short sleeve liquid touch polo shirts, designed with ultra-fine yarns for ventilation and breathability. Made with 100% cotton, it's light and soft for all day comfort.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "products/ck_polo_joll8s",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525256/products/ck_polo_joll8s.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Calvin Klein",
+        "stock": 30,
+        "numOfReviews": 49,
+        "reviews": []
+    },
+    {
+        "name": "The Handmaid's Tale by Margaret Atwood - Paperback",
+        "price": "6.79",
+        "description": "A #1 New York Times Bestseller, An instant classic and eerily prescient cultural phenomenon, from “the patron saint of feminist dystopian fiction” (The New York Times). Now an award-winning Hulu series starring Elizabeth Moss. 311 Pages ",
+        "ratings": 4.4,
+        "images": [
+            {
+                "public_id": "products/handmaids_fktd3x",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525258/products/handmaids_fktd3x.jpg"
+            }
+        ],
+        "category": "Books",
+        "seller": "Amazon",
+        "stock": 220,
+        "numOfReviews": 397,
+        "reviews": []
+    },
+    {
+        "name": "1984 by George Orwell - Paperback",
+        "price": "7.48",
+        "description": "Written more than 70 years ago, 1984 was George Orwell’s chilling prophecy about the future. And while 1984 has come and gone, his dystopian vision of a government that will do anything to control the narrative is timelier than ever...- 328 Pages",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/1984_d5tved",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525254/products/1984_d5tved.jpg"
+            }
+        ],
+        "category": "Books",
+        "seller": "Amazon",
+        "stock": 139,
+        "numOfReviews": 176,
+        "reviews": []
+    },
+    {
+        "name": "Humans by Brandon Stanton - Hardcover",
+        "price": "17.50",
+        "description": "Just when we need it, Humans reminds us what it means to be human . . . one of the most influential art projects of the decade. ―Washington Post, 448 Pages ",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "products/humans_book_vhurqc",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525257/products/humans_book_vhurqc.jpg"
+            }
+        ],
+        "category": "Books",
+        "seller": "Amazon",
+        "stock": 37,
+        "numOfReviews": 94,
+        "reviews": []
+    },
+    {
+        "name": "The Hobbit and The Lord of the Rings 4 Book Box Set by J.R.R. Tolkien - Paperback",
+        "price": "39.49",
+        "description": "This four-volume, deluxe paperback boxed set contains J.R.R. Tolkien's epic masterworks The Hobbit and the three volumes of The Lord of the Rings (The Fellowship of the Ring, The Two Towers, and The Return of the King).  In The Hobbit, Bilbo Baggins is whisked away from his comfortable, unambitious life in Hobbiton by the wizard Gandalf and a company of dwarves. He finds himself caught up in a plot to raid the treasure hoard of Smaug the Magnificent, a large and very dangerous dragon.  The Lord of the Rings tells of the great quest undertaken by Frodo Baggins and the Fellowship of the Ring: Gandalf the wizard; the hobbits Merry, Pippin, and Sam; Gimli the dwarf; Legolas the elf; Boromir of Gondor; and a tall, mysterious stranger called Strider. J.R.R. Tolkien's three volume masterpiece is at once a classic myth and a modern fairy tale—a story of high and heroic adventure set in the unforgettable landscape of Middle-earth.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "products/LOTR_gghgk8",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525258/products/LOTR_gghgk8.jpg"
+            }
+        ],
+        "category": "Books",
+        "seller": "Amazon",
+        "stock": 16,
+        "numOfReviews": 756,
+        "reviews": []
+    },
+    {
+        "name": "One A Day Women’s 50+ Gummies Advanced Multivitamin with Brain Support, Super 8 B vitamin complex, 110 Count",
+        "price": "13.99",
+        "description": "Rich in all 8 b-vitamins to support healthy brain and cognitive function; Specifically formulated to support six key concerns of aging: heart, eye, immune and bone health, healthy brain function, and Physical energy; Excellent source of antioxidant vitamins A, C, and E to help maintain good health; Free of high fructose corn syrup, artificial sweeteners, synthetic colors and fish/crustacean shellfish, dairy (milk), and egg allergens.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "products/one_a_day_womens_rpl8wa",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525253/products/one_a_day_womens_rpl8wa.jpg"
+            }
+        ],
+        "category": "Health",
+        "seller": "Amazon",
+        "stock": 35,
+        "numOfReviews": 56,
+        "reviews": []
+    },
+    {
+        "name": "One A Day Men's Health Formula, 300 Tablets",
+        "price": "26.01",
+        "description": "Complete Multivitamin Formulated for Men; Key Nutrients to Support Immune Health and Physical Energy; Gluten, Wheat and Dairy Free.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "products/one_a_day_mens_fwiasr",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525253/products/one_a_day_mens_fwiasr.jpg"
+            }
+        ],
+        "category": "Health",
+        "seller": "Amazon",
+        "stock": 39,
+        "numOfReviews": 44,
+        "reviews": []
+    },
+    {
+        "name": "Sony ZX Series Wired On-Ear Headphones, Black MDR-ZX110",
+        "price": "9.99",
+        "description": "Lightweight 1.38 in neodymium dynamic drivers deliver a punchy, rhythmic response to even the most demanding tracks; The swiveling earcup design allows easy storage when you’re not using them, and enhances portability when you’re traveling; Cushioned earpads for total comfort and enfolding closed-back design seals in sound; The wide frequency range—spanning 12 Hz to 22 kHz—delivers deep bass, rich midrange, and soaring highs; Plug: L-shaped stereo mini plug 3.5mm",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "products/SonyZX_hphones_gy8psl",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525259/products/SonyZX_hphones_gy8psl.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 39,
+        "numOfReviews": 44,
+        "reviews": []
+    },
+    {
+        "name": "Philips Lightweight Shp1900 Headphones ",
+        "price": "16.99",
+        "description": "So lightweight that you hardly feel them; Full sized earshells block the external noise; Ear cushions improve wearing comfort and bass response; Lightweight headband enhances comfort and adds durability; The whole ear is covered to optimize sound quality",
+        "ratings": 3.9,
+        "images": [
+            {
+                "public_id": "",
+                "url": ""
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 15,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Samsung Galaxy Buds+ Plus, True Wireless Earbuds (Wireless Charging Case Included), Black",
+        "price": "149.99",
+        "description": "Exactly what you want to hear. Galaxy Buds+ are the perfect fitting earbuds to isolate you from distracting noises, so you can stay focused on what you want. And if you’d like to filter in some of the outside world to be more in-tune with your surroundings, you can switch on Ambient Aware2. Hear flight annozments, oncoming traffic or your order number while still enjoying your favorite playlist or podcast. 22 hours of serious sound. Get up to 11 hours of nonstop music on a single charge, then pop your Galaxy Buds+ in the wireless charging case and get nearly 11 more. Forgot to charge them the night before? No worries. 3 minutes of charging gives you one hour of play time, so you have enough juice for your commute or workout. Your voice, loud and clear. Ensure you’re heard clearly. A dedicated internal and two external microphones pick up your voice and isolate it from outside noises. When you’re on a call, your voice comes through richly and confidently, even in noisy locations. Android & iOS compatible. Pair with smart devices via Bluetooth. Use the Galaxy Wearable app on Android and Galaxy Buds+ app on iOS to make the most of your earphones. Included Components: 3 Size Eargel",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/galaxybuds_hxdvxb",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525257/products/galaxybuds_hxdvxb.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Samsung Electronics",
+        "stock": 79,
+        "numOfReviews": 421,
+        "reviews": []
+    },
+    {
+        "name": "Panasonic Ergofit in-Ear Earbud Headphones Matte Black/Red (RP-HJE120-KB)",
+        "price": "9.99",
+        "description": " WIRED IN-EAR HEADPHONES - Perfect for exercising; With three sets of earpads (S/M/L), headphones stay in your ears while keeping surrounding noise out; ERGOFIT DESIGN FOR PERFECT FIT- Ultra-soft ErgoFit in-ear earbud headphones conform instantly to your ears (S/M/L earpads included for a perfect fit); SMARTPHONE COMPATIBLE- Panasonic in-ear headphones with integrated microphone and remote are compatible with Apple (iPhone / iPod / iPad), Android and Blackberry Audio devices; IN-EAR STEREO AUDIO - Tonally balanced audio with crisp highs and deep low notes, plus wider frequency response and lively sound quality for recorded audio; EXTENDED HEADPHONE CORD - Long, 3.6-ft cord threads comfortably through clothing and bags making it easy to connect ",
+        "ratings": 4.3,
+        "images": [
+            {
+                "public_id": "products/panasonic_ErgoFit_hphones_cioqen",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525253/products/panasonic_ErgoFit_hphones_cioqen.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 199,
+        "numOfReviews": 567,
+        "reviews": []
+    },
+    {
+        "name": "L'Oreal Paris Skincare Dermo-Expertise Oil-Free Eye Makeup Remover, Gentle Eye Makeup Remover, 4 fl. oz.",
+        "price": "6.59",
+        "description": "Helps condition eye area and remove makeup; Oil-free formula without greasy residue; Helps refresh eye area while it cleans; Dermatologist-tested; Ophthalmologist-tested and safe for contact lens wearers",
+        "ratings": 4.4,
+        "images": [
+            {
+                "public_id": "products/loreal_makeup_remover_shpnaa",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525258/products/loreal_makeup_remover_shpnaa.jpg"
+            }
+        ],
+        "category": "Beauty",
+        "seller": "Amazon",
+        "stock": 753,
+        "numOfReviews": 601,
+        "reviews": []
+    },
+    {
+        "name": "NYX PROFESSIONAL MAKEUP Matte Lipstick - Strawberry Daiquiri, Salmon Pink",
+        "price": "6.00",
+        "description": "Smooth and Plush Matte Lipstick: Load your lips with the plush, pigment rich matte colors of this shockingly smooth matte lipstick that glides right on and stays in place with a silky matte finish; Creamy and Dreamy: This matte lipstick is never dry feeling, always creamy, dreamy and matte; Now available in a range of fresh new matte colors, these playful matte lipstick shades are just what your lips need; Lip Products For The Perfect Pout: Doll your lips in plush, creamy, perfection; Try our complete line of lip products including lipstick, lip gloss, lip cream, lip liner and butter gloss; Cruelty Free Cosmetics: We believe animals belong in our arms, not in a lab; All of our makeup is certified and acknowledged by PETA as a cruelty free brand; We don't test any of our products on animals ",
+        "ratings": 4.3,
+        "images": [
+            {
+                "public_id": "products/NYX_salmon_lipstick_tmccgp",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525254/products/NYX_salmon_lipstick_tmccgp.jpg"
+            }
+        ],
+        "category": "Beauty",
+        "seller": "Amazon",
+        "stock": 249,
+        "numOfReviews": 74,
+        "reviews": []
+    },
+    {
+        "name": "Ecotools Makeup Cleaner for Brushes, Brush and Sponge Cleansing Shampoo, 6 oz",
+        "price": "6.99",
+        "description": "MAKEUP BRUSH CLEANSING SHAMPOO: Easy to use and long lasting brush cleaner naturally cleans & conditions your applicators, returning your brushes and sponges back to their gentle form; PARABEN FREE SHAMPOO: The hypoallergenic, water based shampoo is dermatologist tested & made with plant-based ingredients. Free of phthalates, petroleum, and perfume. Includes two shampoo bottles; FACE FORWARD: EcoTools offers a full variety of high-quality spa tools, makeup brushes & sponges: eyes, brow, blender, lip, or skin & face, we've got every beauty tool to put your best face forward; EcoTools: We provide high quality, environmentally friendly makeup brushes, sponges, brush cleaners, spa products, face & body care products made of recycled aluminum & plastic with renewable bamboo; POWER OF BEAUTY: Aside from our quality cruelty free & vegan makeup products, we support women's empowerment & for women to become the best version of themselves.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/ecotools_brush_cleaner_wndggf",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525256/products/ecotools_brush_cleaner_wndggf.jpg"
+            }
+        ],
+        "category": "Beauty",
+        "seller": "Amazon",
+        "stock": 23,
+        "numOfReviews": 49,
+        "reviews": []
+    },
+    {
+        "name": "Maybelline Baby Skin Instant Pore Eraser Primer, Clear, 0.67 Fl Oz",
+        "price": "5.24",
+        "description": "Pore minimizer face primer: A pore-blurring makeup primer, Baby Skin goes on like a moisturizer to help create a smooth canvas over which to apply foundation, and leaves the skin looking matte and poreless; Bye bye pores, hello baby skin: Apply primer, face makeup & concealer, or wear primer on a bare face for a low-maintenance look that's smooth, matte & moisturized all day. If you're looking to minimize pores, no more searching. This primer is for you.",
+        "ratings": 4.4,
+        "images": [
+            {
+                "public_id": "products/maybelline_babyskin_primer_qaouja",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525258/products/maybelline_babyskin_primer_qaouja.jpg"
+            }
+        ],
+        "category": "Beauty",
+        "seller": "Amazon",
+        "stock": 67,
+        "numOfReviews": 97,
+        "reviews": []
+    },
+    {
+        "name": "Cetaphil Gentle Waterproof Makeup Remover, 6.0 Fl Oz",
+        "price": "10.29",
+        "description": "Effectively removes stubborn makeup, oil and impurities while soothing skin; Formulated with aloe vera and soothing botanicals ginseng & green tea; Leaves eye area feeling clean and refreshed with no oily residue; Dermatologist tested, ophthalmologist tested; Non-comedogenic, fragrance free",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "products/cetaphil_makeup_remover_ip9qx8",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525255/products/cetaphil_makeup_remover_ip9qx8.jpg"
+            }
+        ],
+        "category": "Beauty",
+        "seller": "Amazon",
+        "stock": 67,
+        "numOfReviews": 124,
+        "reviews": []
+    },
+    {
+        "name": "Care Touch Blood Glucose Meter, 100 Blood Test Strips, 1 Lancing Device, 30 gauge Lancets-100 count and Carrying Case",
+        "price": "30.99",
+        "description": "FAST RESULTS – Get results in as little as 5 seconds; NO CODING – Our monitors recognize batch codes encrypted on each test strip, so there is no need for you to manually insert any code with each new batch; HYGIENIC STRIP EJECTION – Our state-of-the-art monitoring system includes a single touch strip ejection, so you no longer have to worry about manually removing the soiled strip; MEMORY – Keep a survey of your health using the memory storage capable of saving up to 300 readings, while also keeping a continuous 14-day average; Care Touch Diabetes Testing Kit – Care Touch Blood Glucose Meter, 100 Blood Test Strips, 1 Lancing Device, 30 gauge Lancets-100 count and Carrying Case",
+        "ratings": 4.6,
+        "images": [
+            {
+                "public_id": "products/caretouch_glucose_meter_sroruh",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525256/products/caretouch_glucose_meter_sroruh.jpg"
+            }
+        ],
+        "category": "Health",
+        "seller": "Amazon",
+        "stock": 99,
+        "numOfReviews": 76,
+        "reviews": []
+    },
+    {
+        "name": "Champion Men's Classic Jersey Script T-Shirt, Large",
+        "price": "15.00",
+        "description": "100% Cotton; Imported; Pull On closure; Machine Wash; Matching back neck tape; Iconic C patch on left sleeve",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/champion_jerseyscriptL_q1dchv",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525255/products/champion_jerseyscriptL_q1dchv.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Champion",
+        "stock": 49,
+        "numOfReviews": 45,
+        "reviews": []
+    },
+    {
+        "name": "Thrasher Flame Short Sleeve T-Shirt, X-Large",
+        "price": "29.95",
+        "description": "Color: Heather Gray with blue front print; 100% Cotton; Imported; Pull On closure",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/thrasher_XL_lmpaxm",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525259/products/thrasher_XL_lmpaxm.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Thrasher",
+        "stock": 3,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "MTV Beach Island Flamingo Logo Vintage Graphic T-Shirt, Small",
+        "price": "19.99",
+        "description": "100% Cotton; Machine wash cold with like colors, dry low heat; Officially Licensed MTV Apparel Copyright 2019 Viacom; Lightweight, Classic fit, Double-needle sleeve and bottom hem ",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "products/mtv_shirt_S_oiajkd",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525253/products/mtv_shirt_S_oiajkd.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Amazon",
+        "stock": 12,
+        "numOfReviews": 31,
+        "reviews": []
+    },
+    {
+        "name": "STAR WARS Men's Rebel Classic Graphic T-Shirt, Medium",
+        "price": "19.23",
+        "description": "100% Cotton; Materials made in the USA and Imported; Drawstring closure; Machine Wash",
+        "ratings": 2.2,
+        "images": [
+            {
+                "public_id": "products/starwars_shirt_gqrslp",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525259/products/starwars_shirt_gqrslp.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Amazon",
+        "stock": 1,
+        "numOfReviews": 3,
+        "reviews": []
+    },
+    {
+        "name": "Carhartt Men's Signature Logo Short-Sleeve Midweight Jersey T-Shirt K195, X-Large",
+        "price": "19.99",
+        "description": "Dark Cobalt Blue Heather; 60% Cotton, 40% Polyester; Imported; Machine Wash; Original fit / Loose Fit; Rib-knit crewneck; Side-seamed construction minimizes twisting; Tag less neck label; Carhartt signature logo printed on chest and back neck",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "products/carhartt_shirt_XL_bjqkdb",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525255/products/carhartt_shirt_XL_bjqkdb.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Carhartt",
+        "stock": 4,
+        "numOfReviews": 7,
+        "reviews": []
+    },
+    {
+        "name": "Under Armour Men's Team Issue Wordmark Short Sleeve T-Shirt, Navy, Medium",
+        "price": "22.19",
+        "description": "Imported; Loose: Fuller cut for complete comfort. Heatgear: keeps you cool; Super-soft, cotton-blend fabric provides all-day comfort; Ribbed collar; 60% Cotton/40% Polyester.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "public_id": "products/underarmour_navy_shirt_M_byy6ce",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525253/products/underarmour_navy_shirt_M_byy6ce.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Under Armour",
+        "stock": 45,
+        "numOfReviews": 23,
+        "reviews": []
+    },
+    {
+        "name": "Wrangler Authentics Men's Long Sleeve Quilted Lined Flannel Shirt Jacket with Hood, Large",
+        "price": "35.99",
+        "description": "100% Cotton; Imported; Button closure; RELAXED FIT: Constructed with comfort in mind, this long sleeve quilted lined flannel shirt is a wardrobe essential for those cold Winter nights; HEAVYWEIGHT MATERIALS: Built with button cuffs and quilted polyester padding for more durability and added warmth; FOR ADDED WARMTH: Padded with diamond black quilted polyester to create extra warmth while also creating breathability, this is an extremely versatile flannel shirt; FUNCTIONAL STYLE: Lined with 100% cotton, this brushed flannel is made with style in mind. Wear it on the job or out to lunch, this essential closet staple can be worn for many occasions; ADDED STORAGE: Constructed with (2) dual front chest pockets and (2) side seam pockets, this flannel has easy-access storage for all your basic necessities.",
+        "ratings": 4.0,
+        "images": [
+            {
+                "public_id": "products/wrangler_flannel_b8qjr5",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525254/products/wrangler_flannel_b8qjr5.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Wrangler",
+        "stock": 15,
+        "numOfReviews": 26,
+        "reviews": []
+    },
+    {
+        "name": "Sullivans Small Ceramic Vase Set, Rustic Home Décor, Set of 3 Vases, Multi-Color",
+        "price": "34.99",
+        "description": "This set of three petite, distressed multicolored vases work as the perfect accent set for any design theme, and are even great for gift giving; The elegant, yet simplistic look will be sure to add some rustic charm to your mantel, tabletop, shelf, or along-side your favorite décor pieces; These sturdy ceramic vases are built to endure many for many years and can be used year-round; These vases are perfect to display your favorite dry or faux florals and greenery pieces, but not recommended for fresh flowers and water; Each vase varies in size measuring at 3in L x 3in W x 5in H, 3in L x 3in W x 7.5in H, and 3in L x 3in W x 10in H",
+        "ratings": 3.0,
+        "images": [
+            {
+                "public_id": "products/sullivan_ceramic_vase_set_yunel1",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525259/products/sullivan_ceramic_vase_set_yunel1.jpg"
+            }
+        ],
+        "category": "Home",
+        "seller": "Amazon",
+        "stock": 10,
+        "numOfReviews": 2,
+        "reviews": []
+    },
+    {
+        "name": "6 PC Sheet Set Bamboo Sheets, Deep Pockets, Eco Friendly Wrinkle-Free Sheets, Eggplant, Queen ",
+        "price": "34.95",
+        "description": "LUXURY BEDDING - LuxClub 6 pc bamboo sheet sets, more luxurious sheet & pillowcase sets than the finest Egyptian cotton sheets. Softer breathable sheets VS 100% cotton sheet sets; COMFORT - LuxClub 6 piece bamboo sheets beat hotel sheets & high thread count luxury sheets. Best cooling sheets with superior breathability. Our Bamboo bedding sets; 18 inch deep pocket sheets, wrinkle free sheets, silky soft sheets; BEST BED SHEETS - Bamboo viscose fabric blended with microfiber & elastic all around our bamboo fitted sheets. Our bamboo deep pocket sheets have extra deep pockets for memory foam or mattress toppers. Softer than Jersey Sheets & strong while being fade resistant, anti-pill, temperature regulating sheets due to our percale sheet process; COOLING BED SHEET - Best sheets for hot sleepers, moisture-wicking sheets; INCLUDES - 1 Fitted Sheet, 1 Flat Sheet & 4 Pillowcases ",
+        "ratings": 4.2,
+        "images": [
+            {
+                "public_id": "products/eggplant_sheets_hytexa",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525256/products/eggplant_sheets_hytexa.jpg"
+            }
+        ],
+        "category": "Home",
+        "seller": "Amazon",
+        "stock": 29,
+        "numOfReviews": 43,
+        "reviews": []
+    },
+    {
+        "name": "Antimicrobial bed pillow with Built-In Ultra-Fresh Anti-Odor Technology, Standard Size, White 4 Count",
+        "price": "42.00",
+        "description": " FRESH & CLEAN COVER- Each cover is treated with anti-odor Ultra-Fresh Technology making these pillows antimicrobial & antibacterial to help keep your sleeping area fresh & clean; ULTRA-FRESH TREATMENT- Provides a 99% reduction in bacterial growth to protect from odor & stain growth; LOFTY SUPPORT- Hypoallergenic polyester fiber offers lofty comfort throughout the night; LUXURY COTTON COVER- Each pillow features a 200 thread count, natural cotton cover to provide enhanced softness; COMFORT REGARDLESS OF SLEEP POSITION- The fiber fill cradles the head & neck to provide plush support ideal for all sleep styles ",
+        "ratings": 3.8,
+        "images": [
+            {
+                "public_id": "products/bed_pillow_4pk_lwnqgr",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525255/products/bed_pillow_4pk_lwnqgr.jpg"
+            }
+        ],
+        "category": "Home",
+        "seller": "Amazon",
+        "stock": 50,
+        "numOfReviews": 17,
+        "reviews": []
+    },
+    {
+        "name": "Dining Chair Upholstered Fabric Dining Chairs with Copper Nails, Set of 4, Blue",
+        "price": "181.99",
+        "description": "The chair seat is made of linen fabric with sponge padding, which is both breathable and comfortable; Silver nailhead detailing provides eye catching detail; High quality spring and thick foam padding for a comfortable and durable seat; Sturdy wooden frame with rubber wooden legs can hold up to 280lbs,Seat Height: 19in, Seat Width: 17.8in, Seat Depth: 17in ",
+        "ratings": 3.2,
+        "images": [
+            {
+                "public_id": "products/blue_chairs_xg5t4l",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525255/products/blue_chairs_xg5t4l.jpg"
+            }
+        ],
+        "category": "Home",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 11,
+        "reviews": []
+    },
+    {
+        "name": "Rawlings Renegade Baseball/Softball Glove Series ",
+        "price": "49.99",
+        "description": "Designed as a utility glove for any position, this renegade 13 inch FB/basket web baseball/softball glove has a game ready feel right out of the box thanks to the 90 percentage rawlings factory break in; Ideal for recreational baseball, slowpitch softball and fastpitch softball players; Durable and lightweight pro mesh back design for optimal balance, added quickness, and shape retention; Extra comfort and protection thanks to the high density cushioned palm and index finger pads",
+        "ratings": 4.2,
+        "images": [
+            {
+                "public_id": "products/Rawlings_baseball_glove_hqkrgz",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525259/products/Rawlings_baseball_glove_hqkrgz.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Rawlings",
+        "stock": 47,
+        "numOfReviews": 139,
+        "reviews": []
+    },
+    {
+        "name": "Wilson NFL Super Grip Football",
+        "price": "14.50",
+        "description": " Football is a game of will. Take hold of the game with the NFL Supergrip. Made with a high-performance composite material, this football offers the ideal blend of durability; Bring the Big Game to the Backyard; Tacky material for enhanced grip; Synthetic cover, ready for play; Multi-layered lining for consistent shape and durability",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "products/wilson_NFL_football_gldulw",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525254/products/wilson_NFL_football_gldulw.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Wilson",
+        "stock": 363,
+        "numOfReviews": 346,
+        "reviews": []
+    },
+    {
+        "name": "Riddell SpeedFlex Adult Football Helmet with Facemask, Large",
+        "price": "619.99",
+        "description": "Patented Side Impact Protection (PISP) helps reduce force from side impacts. The Flex System is flexibility engineering into the shell, facemask and clip to reduce impact force; Protection Varsity Helmet - Utilizes a shell constructed of a polycarbonate material. ",
+        "ratings": 4.0,
+        "images": [
+            {
+                "public_id": "products/Riddell_fball_helmet_large_ecpcrt",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525259/products/Riddell_fball_helmet_large_ecpcrt.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Riddell",
+        "stock": 2,
+        "numOfReviews": 4,
+        "reviews": []
+    },
+    {
+        "name": "Wilson Pro Staff 97 v13 Tennis Racquet",
+        "price": "229.00",
+        "description": "Lighter weight version of Roger Federer's Pro Staff RF97 Autograph; Braid 45 construction arranges the double braided fibers at 45 degree angles for enhanced pocketing feel alongside incredible stability; String Mapping provides a denser string bed for excellent precision and feel, New Ergonomic End Cap yields improved comfort and playability; Modern design gives nod to classic Pro Staff heritage with black elastic base, exposed carbon fiber weave with gloss finish at the tip and red/yellow pinstripes along the throat",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "products/wilson_pstaff_tennis_racket_ldrvtf",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525253/products/wilson_pstaff_tennis_racket_ldrvtf.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Wilson",
+        "stock": 7,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Wilson Strike Badminton Racquet",
+        "price": "29.99",
+        "description": "Game type: power player/single; Composite t-joint; Racquet comes strung",
+        "ratings": 3.0,
+        "images": [
+            {
+                "public_id": "products/wilson_strike_badminton_racquet_hagvrz",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525254/products/wilson_strike_badminton_racquet_hagvrz.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Wilson",
+        "stock": 14,
+        "numOfReviews": 21,
+        "reviews": []
+    },
+    {
+        "name": "Outdoor Solar Lights, AmeriTop 128 LED 800LM Wireless LED Solar Motion Sensor Lights, 2 Pack",
+        "price": "39.99",
+        "description": "Ultra Bright Solar Motion Sensor Lights - The AmeriTop solar security light with the three heads design, equipped with 128 super bright LED beads, produce up to 800lm 6500K high brightness output and good heat dissipation.. The conversion rate of our upgraded polycrystalline silicon solar panels is as high as 20%. Incredible photocell efficiency, also working great in winter; Enhanced PIR Motion Inductor - With upgraded wide-angle motion detector, our solar led security light detects motion up to 26 feet within an angle of 120 agrees. Automatically turns off during the day and will only turn on when it senses movement at night. The light will turn off after 30 seconds of no movement; Wide Lighting Area - Adjustable heads can move vertically and horizontally. Up to 270° wide lighting angle and 16-26ft sensing distance. Lighting direction is adjustable with the three flexible light heads; All-Weather Resistant - AmeriTop solar lights outdoor Made of durable ABS material, ensuring that it can stand up to the elements and bad weather. The product has an IP65 waterproof rating. It's specifically designed to withstand extreme weather conditions; Wireless Motion Sensor Lights - Easy Installation, no annoying wires or adapters needed. Only using the included screws to fix on any exterior wall constructed of all types of material including metal, wood or plastic; 2200 mAh rechargeable lithium-ion battery.",
+        "ratings": 2.1,
+        "images": [
+            {
+                "public_id": "products/ameritop_solar_lights_tqbyzx",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525255/products/ameritop_solar_lights_tqbyzx.jpg"
+            }
+        ],
+        "category": "Outdoor",
+        "seller": "Amazon",
+        "stock": 4,
+        "numOfReviews": 35,
+        "reviews": []
+    },
+    {
+        "name": "Grand patio Outdoor 12 FT Offset Umbrella with Base Included, Curved and Cantilevered, Aluminum, Brick Red",
+        "price": "499.99",
+        "description": "BASE INCLUDED: Includes base with integrated wheels for easy repositioning. Innovative metal reinforcement with adjusting levelers hidden under the base for increased stability in windy conditions. The base must be filled with sand or water for stability and safe use. Product will arrive in two packages; PREMIUM POLYESTER MATERIAL: Canopy is made of double-coated heavy duty 250g polyester, water-resistant, UV protected and fade-resistant. It offers 99% UV protection. Canopy includes air vent for added stability in high winds; STURDY & DURABLE FRAME: Rust-proof, powder-coated aluminum pole. 8 rust-resistance powder coated steel ribs; EASY TO OPERATE: Easily opened and closed with handle and crank lift operating mechanism, while the innovative position auto-lock allows you to adjust opening angle to any position; CAUTION & CARE: Cover and store at night or during extreme weather conditions to avoid damage and ensure the longevity of your new umbrella. ",
+        "ratings": 4.2,
+        "images": [
+            {
+                "public_id": "products/grandpatio_offset_umbrella_u7mbuw",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525257/products/grandpatio_offset_umbrella_u7mbuw.jpg"
+            }
+        ],
+        "category": "Outdoor",
+        "seller": "Amazon",
+        "stock": 23,
+        "numOfReviews": 49,
+        "reviews": []
+    },
+    {
+        "name": "Char-Broil Performance 4-Burner Cart Style Liquid Propane Gas Grill, Stainless Steel",
+        "price": "299.99",
+        "description": "Power Source: Propane/liquid petroleum gas. The propane tank is not included; Exclusive Stainless Steel finish for increased style and durability; Reliable electric ignition to fire up your grill and 10,000 BTU side burner; Porcelain-coated grease pan is durable and can be removed for easy cleaning; Stainless Steel burners emit flame from the top to allow for even cooking; Porcelain coated cast-iron grates are rust-resistant and made to last",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "products/charbroil_grill_tsbizc",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525256/products/charbroil_grill_tsbizc.jpg"
+            }
+        ],
+        "category": "Outdoor",
+        "seller": "Amazon",
+        "stock": 12,
+        "numOfReviews": 139,
+        "reviews": []
+    },
+    {
+        "name": "Keter Pacific Cool Bar Outdoor Patio Furniture and Hot Tub Side Table with 7.5 Gallon Beer and Wine Cooler, Brown",
+        "price": "82.50",
+        "description": " IDEAL SIZE: Dimensions: 19.5 D x 33.2 H in.; POP UP TOP: Lid elevates upwards 10 inches above the rim for use as a cocktail table; HIDDEN COOLER: 7.5 gallon drink storage capacity to handle up to forty 12 oz. cans with ice; RESIN CONSTRUCTION: It's made out of all weather-resistant resin with an appealing rattan-look texture; EASY CLEANUP: Drainage plug for easy cleanup in a pinch; GIFTS FOR DAD: The perfect gift and bar accessory for the #1 BBQ Grill Master in your life; VERSATILE USE: Use as a patio coffee table, bar table, drink cooler, and raised hot tub table",
+        "ratings": 3.7,
+        "images": [
+            {
+                "public_id": "products/keter_patio_bar_cooler_anspbq",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525257/products/keter_patio_bar_cooler_anspbq.jpg"
+            }
+        ],
+        "category": "Outdoor",
+        "seller": "Amazon",
+        "stock": 22,
+        "numOfReviews": 79,
+        "reviews": []
+    },
+    {
+        "name": "Sports Exercise & Fitness Equipment Speed & Agility Training Kit Combo Set",
+        "price": "99.99",
+        "description": "Agility Kit is an ideal way to improve your speed, agility, balance, coordination and stamina for any sport; Agility Kit Includes 3 x 6in hurdles, 3 x 9in hurdles, 3 x 12in Hurdles, 20 Space Markers, 1 x speed resistor, 1 x evasion belt, 1 x speed chute, 1 x reaction ball & 2 x 4m ladders; Comes with carry bag",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/agility_training_kit_ntrlvs",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525255/products/agility_training_kit_ntrlvs.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Amazon",
+        "stock": 225,
+        "numOfReviews": 436,
+        "reviews": []
+    },
+    {
+        "name": "Spalding Basketball TF-500",
+        "price": "29.99",
+        "description": "Official size and weight: Size 7, 29.5 inches; Premium composite cover; Shipped inflated and game ready; Designed for indoor play",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "products/spalding_basketball500_eqdhzl",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525259/products/spalding_basketball500_eqdhzl.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Spalding",
+        "stock": 184,
+        "numOfReviews": 632,
+        "reviews": []
+    },
+    {
+        "name": "Coleman Sundome Tent",
+        "price": "49.99",
+        "description": " Dome tent with a sturdy frame that withstands 35+ mph winds; Easy setup in only 10 minutes. Good for backpacking; Weathertec system with patented welded floors and inverted seams to keep you dry; Large windows and a ground vent for superior ventilation; Measures 7 x 5 feet with 4-foot center height",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "products/coleman_tent_phe2jt",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525256/products/coleman_tent_phe2jt.jpg"
+            }
+        ],
+        "category": "Outdoor",
+        "seller": "Coleman",
+        "stock": 79,
+        "numOfReviews": 174,
+        "reviews": []
+    },
+    {
+        "name": "Excedrin Extra Strength Caplets for Headache Pain Relief 1 Pack of 300 Count",
+        "price": "17.99",
+        "description": "Relief for headaches, migraines and other types of pain; Combination of acetaminophen, aspirin and caffeine; Trusted, quick relief; 300 count caplets",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "products/excedrin_ntq3c6",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525256/products/excedrin_ntq3c6.jpg"
+            }
+        ],
+        "category": "Health",
+        "seller": "Amazon",
+        "stock": 548,
+        "numOfReviews": 539,
+        "reviews": []
+    },
+    {
+        "name": "Benadryl Allergy 60 Packets 2 Tablets, 120 Count, 2 Packs of 60 each",
+        "price": "16.99",
+        "description": "2 ultratabs per packet, 60 packets total; Temporarily relieves allergy and cold symptoms; Each tablet contains 25 mg diphenhydramine hci antihistamine; Relieves allergy symptoms of: sneezing, runny nose, itchy nose or throat, and itchy, watery eyes; Relieves cold symptoms of: sneezing and runny nose",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "products/Benadryl_zaqrat",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525255/products/Benadryl_zaqrat.jpg"
+            }
+        ],
+        "category": "Health",
+        "seller": "Amazon",
+        "stock": 134,
+        "numOfReviews": 329,
+        "reviews": []
+    },
+    {
+        "name": "Quaker Bars Granola Bars 5 Flavor 58ct, Chewy & Dipps Variety Pack, 58 Count",
+        "price": "12.99",
+        "description": "Includes 58 individually wrapped granola bars you can enjoy at home, at school, or on the go; Features 12 chocolate chip, 12 peanut butter chocolate chip, and 10 s'mores flavor Chewy granola bars, plus 12 chocolate chip and 12 peanut butter flavor Chewy Dipps chocolate covered granola bars; Made with real rich chocolate, indulgent peanut butter-flavored chips, and toasted granola; Packed with 8 grams of 100% whole grains per bar. No high-fructose corn syrup; At only 150 calories or less per bar, Quaker Chewy and Dipps bars are a perfect snack for any occasion",
+        "ratings": 4.0,
+        "images": [
+            {
+                "public_id": "products/quaker_granolabars_epwkhg",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525259/products/quaker_granolabars_epwkhg.jpg"
+            }
+        ],
+        "category": "Food",
+        "seller": "Amazon",
+        "stock": 184,
+        "numOfReviews": 632,
+        "reviews": []
+    },
+    {
+        "name": "Wonderful Halos Mandarins, 3lb Bag",
+        "price": "5.99",
+        "description": " PACK SIZE: 3lbs; EXCELLENT SOURCE OF VITAMIN C: Just two medium Halos gives you half your daily value of Vitamin C and 100% of your daily value of Pure Goodness; SWEET SEEDLESS & EASY TO PEEL: We're picky about our fruit, and we check our fruit for quality because only the best mandarins earn their halos; GREAT FOR ALL AGES: Halos are a sweet and healthy snack, making them perfect for a mid-day pick-me-up or a post-workout energy boost ",
+        "ratings": 4.0,
+        "images": [
+            {
+                "public_id": "products/halos_mandarins_tbetcm",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525257/products/halos_mandarins_tbetcm.jpg"
+            }
+        ],
+        "category": "Food",
+        "seller": "Amazon",
+        "stock": 32,
+        "numOfReviews": 139,
+        "reviews": []
+    },
+    {
+        "name": "McCormick Garlic, Herb and Black Pepper and Sea Salt All Purpose Seasoning, 4.37 oz",
+        "price": "3.50",
+        "description": "Made with real McCormick herbs and spices; Convenient shake-on-anything blend of savory, spicy and herby flavors; Gluten Free, Certified Paleo and Non GMO; Sprinkle on meat or vegetables before grilling or roasting; Add to meatloaf, slow cooker dishes, potatoes or cauliflower",
+        "ratings": 3.5,
+        "images": [
+            {
+                "public_id": "products/mccormick_garlic_herb_seasoning_n9glze",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525258/products/mccormick_garlic_herb_seasoning_n9glze.jpg"
+            }
+        ],
+        "category": "Food",
+        "seller": "Amazon",
+        "stock": 52,
+        "numOfReviews": 79,
+        "reviews": []
+    },
+    {
+        "name": "adidas Men's Lite Racer Adapt 3.0 Running Shoe, size 10",
+        "price": "63.99",
+        "description": "100% Synthetic Textile; Made in USA or Imported; Rubber sole; Men's slip-on sneakers made for all-day wear; Sock-like fit; Textile upper for lightweight comfort, Rubber outsole for durability and traction; This product is made with Primegreen, a series of high-performance recycled materials.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "products/adidas_lite_racer_adapt_shoes_ewvkat",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525254/products/adidas_lite_racer_adapt_shoes_ewvkat.jpg"
+            }
+        ],
+        "category": "Shoes",
+        "seller": "Adidas",
+        "stock": 33,
+        "numOfReviews": 49,
+        "reviews": []
+    },
+    {
+        "name": "Crocs Unisex-Adult Classic Tie Dye Clog, (7 Womens/5 Mens)",
+        "price": "53.99",
+        "description": "100% Synthetic; Imported; Synthetic sole; Heel measures approximately 0.77in.; CROCS CLASSIC TIE DYE CLOG: Timeless, fun and full of peaceful good vibes, the bright tie dye Crocs for men and women add the perfect groovy statement to any style; GROOVY STYLE: Grounded in comfort and spiked with personality for all ages. The women's and men's shoe is ready to rock wherever you choose to roll; ICONIC COMFORT: From downtime to downtown, these mule clogs are flexible and made of Croslite material for Iconic Crocs Comfort. The pivoting heel strap offers a secure fit and trendy look.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/crocs_tiedye_adult_qrj6vq",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525256/products/crocs_tiedye_adult_qrj6vq.jpg"
+            }
+        ],
+        "category": "Shoes",
+        "seller": "Crocs",
+        "stock": 15,
+        "numOfReviews": 169,
+        "reviews": []
+    },
+    {
+        "name": "Timex Weekender Chronograph 40mm Watch",
+        "price": "50.99",
+        "description": "Adjustable tan 20mm double-layered genuine leather slip-thru strap fits up to 8-inch wrist circumference; Cream dial with date window at 4 o'clock; full Arabic numerals; 24-hour military time; 30-minute chronograph measures to 1/20th second; Silver-tone 40mm brass case with mineral glass crystal; Indiglo light-up watch dial; luminous hands; Water resistant to 30m (100ft): in general, withstands splashes or brief immersion in water, but not suitable for swimming or bathing",
+        "ratings": 4.2,
+        "images": [
+            {
+                "public_id": "products/timex_weekender_watch_n2bh4c",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525259/products/timex_weekender_watch_n2bh4c.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Timex",
+        "stock": 47,
+        "numOfReviews": 129,
+        "reviews": []
+    },
+    {
+        "name": "Tommy Hilfiger Men's Leather Wallet – Slim Bifold with 6 Credit Card Pockets and Removable Id Window",
+        "price": "23.99",
+        "description": "100% Cow Leather; Imported; Leather lining; Bifold closure; 5.28 x 0.6 x 4.72 inches; 0.16 lbs; FUNCTIONAL: This Tommy Hilfiger passcase billfold wallet offers you 4 inner card pockets, 2 hidden pockets, 1 large bill compartment, 1 removable cardholder, and 1 thumb ID window",
+        "ratings": 3.7,
+        "images": [
+            {
+                "public_id": "products/tommyhilfiger_wallet_xf09vc",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525253/products/tommyhilfiger_wallet_xf09vc.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Tommy Hilfiger",
+        "stock": 92,
+        "numOfReviews": 134,
+        "reviews": []
+    },
+    {
+        "name": "Tommy Hilfiger Men's Tie, Navy Dotted Red",
+        "price": "13.99",
+        "description": "100% Silk; Imported; Tie closure; Dry Clean Only; 3 1/8in wide; Dotted Red; Signature contrast tail",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/tommyhilfiger_navy_tie_jgjsw8",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525253/products/tommyhilfiger_navy_tie_jgjsw8.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Tommy Hilfiger",
+        "stock": 149,
+        "numOfReviews": 195,
+        "reviews": []
+    },
+    {
+        "name": "Pandora Jewelry Timeless Elegance Stud Cubic Zirconia Earrings in Sterling Silver",
+        "price": "80.00",
+        "description": " These Stunning Sterling Silver Stud Earrings Feature A Cubic Zirconia (Cz) Halo Around The Danube-cut center stone. Conveying a sense of timeless beauty, they will put a glamorous spin on even the most basic outfit; one size, Clear; Earring studs",
+        "ratings": 3.4,
+        "images": [
+            {
+                "public_id": "products/pandora_cz_stud_earrings_sexutx",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525254/products/pandora_cz_stud_earrings_sexutx.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "PANDORA",
+        "stock": 183,
+        "numOfReviews": 592,
+        "reviews": []
+    },
+    {
+        "name": "Fossil Men's Stainless Steel and Beaded Bracelet, Lava/Agate",
+        "price": "38.00",
+        "description": "Upgrade your morning meetings and date night plans with stackable bracelets, dainty necklaces, or statement-making earrings; Each of our jewelry pieces was designed to wow and beautifully packaged in a Fossil branded vintage tin - making it the perfect gift; Jewelry For Men That’s Sleek & Iconic. Pick the colors that you love to wear, braided leather, beads or steel – the choice is up to you on how you want to make our jewelry for men something that’s totally you; This bracelet features lava stone and black agate beads, stainless steel and a lobster clasp closure; Measurements: Inner Length: 6.8in + .59in extension",
+        "ratings": 4.0,
+        "images": [
+            {
+                "public_id": "fossil_lava_bracelet_ooltx6",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525256/products/fossil_lava_bracelet_ooltx6.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Fossil",
+        "stock": 199,
+        "numOfReviews": 349,
+        "reviews": []
+    },
+    {
+        "name": "UGG Women's Tasman Slipper, Size 9, Dark Grey",
+        "price": "100.00",
+        "description": "Leather and Textile; Imported Dyed sheep fur from Australia; Synthetic sole; Shaft measures approximately low-top from arch; Vamp and quarters lined with fur. UGGpure wool insole. Contains real fur from sheep or lamb; Suede upper. Nylon binding; EVA outsole",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "products/ugg_tasman_slipper_grey_tamzlu",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525253/products/ugg_tasman_slipper_grey_tamzlu.jpg"
+            }
+        ],
+        "category": "Shoes",
+        "seller": "UGG",
+        "stock": 345,
+        "numOfReviews": 597,
+        "reviews": []
+    },
+    {
+        "name": "Clarks Men's Tilden Walk Oxford, Dark Tan, Size 13",
+        "price": "61.49",
+        "description": "100% Leather; Imported; Synthetic sole; Breathable leather; Flexible sole; Non-marking outsole; Extremely lightweight; Memory foam insole; Lining Material - Fabric",
+        "ratings": 2.5,
+        "images": [
+            {
+                "public_id": "products/clarks_dress_shoes_tan_waogys",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525256/products/clarks_dress_shoes_tan_waogys.jpg"
+            }
+        ],
+        "category": "Shoes",
+        "seller": "Clarks",
+        "stock": 19,
+        "numOfReviews": 94,
+        "reviews": []
+    },
+    {
+        "name": "2020 HP 15 15.6in HD Touchscreen Premium Laptop - 10th Gen Intel Core i5-1035G1, 16GB DDR4, 512GB SSD, USB Type-C, HDMI, Windows 10 - Silver W",
+        "price": "729.99",
+        "description": "Fast Processor 10th Generation intel(r) core(tm) i5-1035g1 Processor quad-core 1.0 GHz Base frequency up to 3.6 GHz with Intel's) Turbo Boost Technology; Display 15.6 Inch diagonal HD SVA bright View micro-edge WLED-backlit touchscreen display (1366 x 768); Fast boot up with SSD Boot up in seconds transfer files without waiting hours and enjoy a snappier experience with the internal solid-state drive 512 GB pcie(r) nvme(tm) M 2 Solid State Drive; 1 HDMI 1 4b 1 headphone/microphone combo 1 USB 3.1 Type-C Gen 1 (Data Transfer up to 5 Gb/s) 2 USB 3.1 Gen 1 (Data transfer only) 1 AC smart pin; Windows 10 Home No DVD",
+        "ratings": 2.2,
+        "images": [
+            {
+                "public_id": "products/hp_premium_laptop_silver_wgsyeb",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525257/products/hp_premium_laptop_silver_wgsyeb.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "HP",
+        "stock": 31,
+        "numOfReviews": 149,
+        "reviews": []
+    },
+    {
+        "name": "Lenovo Business S340 Laptop - Linux Mint 19 (Cinnamon) - Intel i7-8550U, 20GB RAM, 1TB Hard Disk Drive, 15.6in HD 1366x768 Display, Fast Charging",
+        "price": "1139.99",
+        "description": " Intel Core i7-8550U (8M Cache, up to 4.00 GHz) - 1TB Hard Disk Drive - 20GB DDR4 SDRAM; 15.6in HD (1366x768) Non-Touch Display - Intel UHD 620 Integrated Graphics - Stereo Speakers; Built in HD 720p Webcam with Microphone - Intel Dual Band Wireless-AC (2x2) 8265, Bluetooth Version 4.1; I/O Ports: 2x USB 3.0, 2x USB Type-C, Headphone/Mic Combo Port, 4-in-1 Card Reader, RJ-45 Ethernet, HDMI; Linux Mint 19 (Cinnamon) 64-Bit - Keyboard with Full NumberPad",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "products/lenovo_business_s340_laptop_ypbar0",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525258/products/lenovo_business_s340_laptop_ypbar0.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Lenovo",
+        "stock": 19,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Dell Inspiron 15 3000 Laptop (2021 Latest Model), 15.6in HD Display, Intel N4020 Dual-Core Processor, 8GB RAM, 256GB SSD, Webcam, HDMI, Bluetooth, Wi-Fi, Black, Windows 10 Pro",
+        "price": "463.99",
+        "description": "Upgraded- Enjoy up to 15x faster performance than a traditional hard drive with 256GB Solid State and experience improved multitasking with higher bandwidth thanks to 8GB of RAM; Processor- Intel Celeron N4020 1.1GHz Dual-Core Processor (4MB Cache, Up to 2.8GHz); Display- 15.6-inch HD (1366 x 768) Anti-glare LED-Backlit Non-touch Narrow Border Display; Operating System -Windows 10 Pro 64-Bit",
+        "ratings": 4.1,
+        "images": [
+            {
+                "public_id": "products/dell_inspiron_15_3000_laptop_urgsop",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525256/products/dell_inspiron_15_3000_laptop_urgsop.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Dell",
+        "stock": 137,
+        "numOfReviews": 69,
+        "reviews": []
+    },
+    {
+        "name": "ASUS VivoBook 17.3in FHD IPS LED Backlight Premium Laptop | AMD Ryzen3 3250U | 20GB DDR4 RAM | 512GB SSD | USB Type-C | WiFi | HDMI | Windows 10",
+        "price": "647.88",
+        "description": "Substantial high-bandwidth 20GB RAM to smoothly run your games and photo- and video-editing applications, as well as multiple programs and browser tabs all at once. A flash-based 512GBSSD has no moving parts, resulting in faster start-up times and data access, no noise, and reduced heat production and power draw on the battery; AMD Ryzen 3 3250U Mobile Processor -2 cores, 4 threads, up to 3.5GHz. Uplift your performance and multitask seamlessly with accelerated power and efficiency, while enjoying stunning HD visuals; 17.3in FHD IPS Display -The 1920×1080 resolution boasts impressive color and clarity. Supports 720p content. The new 4-way NanoEdge display provides an amazing 85% screen-to-body ratio for visual that draw you in; AMD Radeon Graphics -On-processor graphics with shared video memory provide everyday image quality for Internet use, basic photo editing and casual gaming; Other Features-Its precision-engineered ErgoLift hinge has a silky-smooth dual action that holds the display securely at any angle, and tilts the keyboard slightly to give you a perfect typing position every time. ",
+        "ratings": 3.0,
+        "images": [
+            {
+                "public_id": "products/asus_vivobook_laptop_icgtxz",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525255/products/asus_vivobook_laptop_icgtxz.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "ASUS",
+        "stock": 3,
+        "numOfReviews": 35,
+        "reviews": []
+    },
+    {
+        "name": "Acer Nitro 5 Gaming Laptop, 10th Gen Intel Core i5-10300H,NVIDIA GeForce GTX 1650 Ti, 15.6in Full HD IPS 144Hz Display, 8GB DDR4,256GB NVMe SSD, WiFi 6, DTS X Ultra, Backlit Keyboard, AN515-55-59KS",
+        "price": "713.99",
+        "description": " 10th Generation Intel Core i5-10300H Processor (Up to 4.5GHz); 15in Full HD Widescreen IPS LED-backlit 144Hz Refresh Display; NVIDIA GeForce GTX 1650 Ti Graphics with 4 GB of dedicated GDDR6 VRAM; 8GB DDR4 2933MHz Memory; 256GB NVMe SSD (2 x PCIe M.2 Slots - 1 Slot Open for Easy Upgrades) & 1 - Available Hard Drive Bay; LAN: Killer Ethernet E2600 10/100/1000 Gigabit Ethernet LAN; Wireless: Intel Wireless Wi-Fi 6 AX201 802.11ax; Backlit Keyboard; Acer CoolBoost Technology with Twin Fans and Quad Exhaust Ports Design; Windows 10 Home Edition",
+        "ratings": 4.6,
+        "images": [
+            {
+                "public_id": "products/acer_nitro5_laptop_ttbfc4",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525254/products/acer_nitro5_laptop_ttbfc4.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Acer",
+        "stock": 124,
+        "numOfReviews": 194,
+        "reviews": []
+    },
+    {
+        "name": "KODAK Printomatic Digital Instant Print Camera - Full Color Prints On ZINK 2x3in Sticky-Backed Photo Paper (Blue)",
+        "price": "49.99",
+        "description": " ALL-IN-ONE PHOTOGRAPY - The Point-and-Shoot Printomatic Camera offers a powerful 5MP sensor and wide angle f/2 lens. The Printomatic is the ideal all-in-one solution for capturing and sharing vibrant prints instantaneously wherever you are; FAST EASY AND FUN - This point and shoot the camera speed allows you to shoot a new photo while printing the previous shot. It also comes equipped with a light sensor that will automatically turn on the flash in low-light settings; ONE STOP PRINTING - The Kodak Printomatic camera instantly prints 2x3” photos. The camera uses Kodak Zink Photo Paper, so no ink cartridges, toners or film are needed. The photo prints are durable, water-resistant, tear resistant and smudge free; CHARMING DESIGN - Comes in variety of fun, bold colors. Compact design slips neatly into your shirt pocket. Make it easy to carry around as you go about your day, ensuring you always have your printomatic with you; INSTANT VALUE - Despite its many digital technological advancements the Kodak Printomatic Camera is an easy-to-use product. The camera has slots for attaching a neck strap, and saves photos to a MicroSD card",
+        "ratings": 4.0,
+        "images": [
+            {
+                "public_id": "products/kodak_printomatic_camera_blue_c4vwdp",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525258/products/kodak_printomatic_camera_blue_c4vwdp.jpg"
+            }
+        ],
+        "category": "Cameras",
+        "seller": "KODAK",
+        "stock": 183,
+        "numOfReviews": 95,
+        "reviews": []
+    },
+    {
+        "name": "Canon EOS Rebel T7 DSLR Camera Bundle with Canon EF-S 18-55mm f/3.5-5.6 is II Lens + 2pc SanDisk 32GB Memory Cards + Accessory Kit",
+        "price": "599.99",
+        "description": "This Camera Bundle Kit comes complete with all manufacturer supplied accessories and includes: The EOS Rebel T7 DSLR Camera from Canon has a 24.1MP APS-C CMOS Sensor and DIGIC 4+ Image Processor. It has a 3.0in 920k-Dot LCD Monitor with Full HD 1080/30p Video Recording capabilities. It offers sharp details, accurate colors and low-noise imaging in both bright and low-light shooting situations. The Rebel T& can continuously shoot up to 3 fps; Canon 18-55mm II Lens - a standard zoom compatible with Canon APS-C format cameras. It features a focal length range of 18-55mm which is equivalent to 29-88mm in the 35mm format; 2 x SanDisk 32GB SDHC Memory Cards + Deluxe Padded Camera Case + Flash Light + 3pc Filter Kit + Extra Battery Pack + AC/DC Car & Home Charger + High Speed USB Card Reader + 50in Camera Tripod; 0.43x Auxiliary Wideangle Lens - it conveniently mounts to the front of your fixed or zoom lens, and allows you to capture a wider field of view, 2.2x Auxiliary Telephoto Lens - brings you twice as close to the action. Perfect for long-distance photo situations such as sporting events ",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "products/canon_eos_rebel_t7_camera_agnv52",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525255/products/canon_eos_rebel_t7_camera_agnv52.jpg"
+            }
+        ],
+        "category": "Cameras",
+        "seller": "Canon",
+        "stock": 57,
+        "numOfReviews": 634,
+        "reviews": []
+    },
+    {
+        "name": "Canon Powershot SX720 (Red) Point & Shoot Digital Camera + Accessory Bundle + Model Electronics Cloth",
+        "price": "249.99",
+        "description": " Canon SX720 Red possesses a 20.3MP 1/2.3in CMOS Sensor; 40x Zoom Lens, 24-960mm (35mm Equiv.); 3.0in 922k-Dot LCD Monitor; Full HD 1080p Video Recording at 60 fps; This Bundle Includes: Canon SX720 Red, 32 GB Card, 7in Spider Tripod, Lens Cleaning Kit, BP-BC1 Camera Carry Case",
+        "ratings": 1.5,
+        "images": [
+            {
+                "public_id": "products/canon_powershot_camera_red_og1w2a",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525255/products/canon_powershot_camera_red_og1w2a.jpg"
+            }
+        ],
+        "category": "Cameras",
+        "seller": "Canon",
+        "stock": 2,
+        "numOfReviews": 75,
+        "reviews": []
+    },
+    {
+        "name": "Fujifilm FinePix F500EXR 16 MP CMOS Digital Camera with Fujinon 15x Super Wide Angle Zoom Lens",
+        "price": "349.95",
+        "description": " 16-megapixel EXR-CMOS sensor; 15x wide-angle optical zoom lens,EXR AUTO recognizes 27 scenes; Motion Panorama 360 mode; High-speed continuous shooting; Multi-frame technology, PAL selectable; SD/SDHC/SDXC memory card slot (card NOT included); Intelligent Image Stabilization; 3.0-inch High-Contrast LCD; Capture movies in Full HD 1080p resolution; mini HDMI port; Capture images and video to SD/SDHC memory cards (not included); 16 million effective pixels; 1/2 inch BSI EXR CMOS sensor; 15x optical zoom lens plus approx. 5x digital zoom; 3.0 inch LCD display; Full HD video 1080p with stereo sound",
+        "ratings": 3.1,
+        "images": [
+            {
+                "public_id": "products/fujifilm_finepix_cmos_camera_if5whq",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525256/products/fujifilm_finepix_cmos_camera_if5whq.jpg"
+            }
+        ],
+        "category": "Cameras",
+        "seller": "Fujifilm",
+        "stock": 7,
+        "numOfReviews": 51,
+        "reviews": []
+    },
+    {
+        "name": "Fujifilm Instax Mini 11 Instant Camera + Instax Mini Twin Pack Film + Hanging Frames + Plastic Frames + Case + Close Up Filters - All Inclusive Bundle! (Charcoal Grey)",
+        "price": "89.99",
+        "description": " NEW FUJIFILM MINI 11 - Camera included in this kit with a total of 20 film sheets; ONE-TOUCH SELFIE MODE - To keep your process streamlined, the Mini 11 has a built-in selfie mirror and macro mode. Instead of attaching an entire close-up lens attachment, just pull the lens barrel out until the “selfie mode” mark appears; AUTOMATIC EXPOSURE - The Mini 11 automatically chooses the perfect shutter speed depending on your lighting. The addition of this feature makes it easier than ever to avoid under and overexposed photos; CREDIT CARD SIZE - 5.4 cm x 8.6 cm: the unique credit-card sized film is easy to carry in your purse or wallet and has unique color borders to add style to your images. Leave them blank or personalize with a fun message.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "products/fujifilm_instax_mini_charcoal_camera_kuxmly",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525256/products/fujifilm_instax_mini_charcoal_camera_kuxmly.jpg"
+            }
+        ],
+        "category": "Cameras",
+        "seller": "Fujifilm",
+        "stock": 284,
+        "numOfReviews": 634,
+        "reviews": []
+    },
+    {
+        "name": "Panasonic LUMIX G7 4K Mirrorless Camera, with 14-140mm Power O.I.S. Lens, 16 Megapixels, 3 Inch Touch LCD, DMC-G7HK",
+        "price": "895.99",
+        "description": " Superb DSLM image quality without the bulk and weight of traditional DSLRs; Never miss a photo with three unique 4K Ultra HD Video pause and save 4K Photo Modes; Fast and precise auto focusing tracks the subject.Focal Length f=14-140mm (35mm camera equivalent 28-280mm). Aperture Type 7 diaphragm blades / Circular aperture diaphragm. Aperture range F3.5(Wide) - F5.6(TELE); Class-leading, ultra-compact, interchangeable lens and accessory options. Operating temperature:0℃ to 40℃ (32°F to 104°F); Unwire Your Creativity with integrated Wi-Fi sharing",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/panasonic_lumix_g7_camera_vittkf",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525253/products/panasonic_lumix_g7_camera_vittkf.jpg"
+            }
+        ],
+        "category": "Cameras",
+        "seller": "Panasonic",
+        "stock": 38,
+        "numOfReviews": 143,
+        "reviews": []
+    },
+    {
+        "name": "Saucony Men's Multi-pack Mesh Ventilating Comfort Fit Performance No-Show Socks",
+        "price": "13.99",
+        "description": "98% Polyester, 2% Spandex; Imported; Machine Wash; Run Dry Moisture Management Provides Superior Moisture Transport with our Ultra Wicking Fibers. So, Whether you're in the Gym or on the Road, your Feet Stay Fresh; Airmesh Venting. Mesh Ventilation Construction Creates Maximum Airflow to Keep Your Feet Cool and Dry in any Running Conditions; Targeted Arch Compression Engineered with Just the Right Amount of Compression to Keep your Arch Stabile and Secure. Our Arch Support System also Prevents Bunching and Helps Keep Your Sock From Slipping.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/saucony_socks_l3yg6y",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525259/products/saucony_socks_l3yg6y.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Saucony",
+        "stock": 837,
+        "numOfReviews": 194,
+        "reviews": []
+    },
+    {
+        "name": "Champion Men's 6-Pack Double Dry Moisture Wicking Logo Crew Socks ",
+        "price": "12.00",
+        "description": "97% Polyester, 2% Spandex, 1% Other Fibers; Imported; Pull On closure; Machine Wash; Double dry wicking; Arch support for better fit; Cushioned foot bottom",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "products/champion_socks_w4ocpz",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525256/products/champion_socks_w4ocpz.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Champion",
+        "stock": 932,
+        "numOfReviews": 482,
+        "reviews": []
+    },
+    {
+        "name": "Robert Langdon Series Collection 7 Books Set By Dan Brown",
+        "price": "40.99",
+        "description": "Angels And Demons: The Vatican, Rome: the College of Cardinals assembles to elect a new pope. Somewhere beneath them, an unstoppable bomb of terrifying power relentlessly counts down to oblivion; The Da Vinci Code: Harvard professor Robert Langdon receives an urgent late-night phone call while on business in Paris: the elderly curator of the Louvre has been brutally murdered inside the museum; The Lost Symbol: The Capitol Building, Washington DC: Harvard symbologist Robert Langdon believes he is here to give a lecture. He is wrong. Within minutes of his arrival, a shocking object is discovered; Inferno: Florence: Harvard symbologist Robert Langdon awakes in a hospital bed with no recollection of where he is or how he got there. Nor can he explain the origin of the macabre object that is found hidden in his belongings; Origin: Robert Langdon, Harvard professor of symbology and religious iconology, arrives at the Guggenheim Museum Bilbao to attend the unveiling of an astonishing scientific breakthrough; Digital Fortress: When the National Security Agency's invincible code-breaking machine encounters a mysterious code it cannot break, the agency calls in its head cryptographer, Susan Fletcher, a brilliant, beautiful mathematician; Deception Point: When a new NASA satellite detects evidence of an astonishingly rare object buried deep in the Arctic ice, the floundering space agency proclaims a much-needed victory.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "products/robert_langdon_book_set_bj53qw",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525259/products/robert_langdon_book_set_bj53qw.jpg"
+            }
+        ],
+        "category": "Books",
+        "seller": "Amazon",
+        "stock": 23,
+        "numOfReviews": 105,
+        "reviews": []
+    },
+    {
+        "name": "The Master and Margarita by Mikhail Bulgakov",
+        "price": "13.49",
+        "description": "In The Master and Margarita, the Devil himself pays a visit to Soviet Moscow. Accompanied by a retinue that includes the fast-talking, vodka-drinking, giant tomcat Behemoth, he sets about creating a whirlwind of chaos that soon involves the beautiful Margarita and her beloved, a distraught writer known only as the Master, and even Jesus Christ and Pontius Pilate. The Master and Margarita combines fable, fantasy, political satire, and slapstick comedy to create a wildly entertaining and unforgettable tale that is commonly considered the greatest novel to come out of the Soviet Union. It appears in this edition in a translation by Mirra Ginsburg that was judged 'brilliant' by Publishers Weekly.",
+        "ratings": 4.3,
+        "images": [
+            {
+                "public_id": "products/master_marg_book_oir3fx",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525258/products/master_marg_book_oir3fx.jpg"
+            }
+        ],
+        "category": "Books",
+        "seller": "Amazon",
+        "stock": 23,
+        "numOfReviews": 39,
+        "reviews": []
+    },
+    {
+        "name": "The Catcher in the Rye by J.D. Salinger",
+        "price": "6.99",
+        "description": "The Catcher in the Rye, novel by J.D. Salinger published in 1951. The novel details two days in the life of 16-year-old Holden Caulfield after he has been expelled from prep school. Confused and disillusioned, Holden searches for truth and rails against the “phoniness” of the adult world.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "products/catcher_rye_book_mr5fu9",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525255/products/catcher_rye_book_mr5fu9.jpg"
+            }
+        ],
+        "category": "Books",
+        "seller": "Amazon",
+        "stock": 193,
+        "numOfReviews": 392,
+        "reviews": []
+    },
+    {
+        "name": "Wrangler Authentics Men’s Classic Relaxed Fit Flex Jean, Standard, 30W x 30L",
+        "price": "28.99",
+        "description": "99% Cotton, 1% Spandex; Imported; Zipper closure; Machine Wash; RELAXED FIT. Built with a relaxed fit through the seat and thigh, this classic five-pocket jean sits at the natural waist for a comfortable fit; DURABLE MATERIALS. Made with durable flex denim, these jeans are built to last and will allow you to move with comfort throughout the day; FUNCTION MEETS STYLE. From a lunch date to a night out, this stretch denim jean is built for comfort and durability. Designed with a timeless fit, these jeans will be your new closet staple; HEAVY-DUTY HARDWARE. Finished with heavy duty hardware for long-lasting quality. Brass zipper fly, button closure and durable reinforced stitching; FIVE POCKET STYLING. This jean is constructed with an authentic five pocket styling: (1) watch pocket, (2) front scoop pockets, (3) back patch pockets.",
+        "ratings": 3.2,
+        "images": [
+            {
+                "public_id": "products/wrangler_relaxed_fit_jeans_nzakri",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525254/products/wrangler_relaxed_fit_jeans_nzakri.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Wrangler",
+        "stock": 101,
+        "numOfReviews": 78,
+        "reviews": []
+    },
+    {
+        "name": "Levi's Men's 559 Relaxed Straight Jean, Navarro, 30W x 30L",
+        "price": "39.99",
+        "description": "98% Cotton, 2% Elastane; Imported; Button closure; Wash And Dry Inside Out With Like Colors; Liquid Detergent Is Recommended; Sits below waist; Extra room through seat and thigh; Straight leg; Zip fly and button closure",
+        "ratings": 4.3,
+        "images": [
+            {
+                "public_id": "products/levis_mens_559_jeans_hbvwxe",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525258/products/levis_mens_559_jeans_hbvwxe.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Levi",
+        "stock": 167,
+        "numOfReviews": 109,
+        "reviews": []
+    },
+    {
+        "name": "Linksys AC1900 Smart Wi-Fi Router Home Network, MU-MIMO Dual Band Wireless Gigabit WiFi Router, Fast Speeds up to 1.9 Gbps, coverage up to 1,500 sq ft, Parental Control, up to 15 devices (EA7500-4B)",
+        "price": "89.99",
+        "description": " Provides up to 1,500 square feet of Wi-Fi coverage for 10+ wireless devices; Works with existing modem, simple setup through Linksys App. Minimum system requirements-Internet Explorer versions 8 and newer, Safari 5 (for Mac), Firefox 8, Google Chrome; Enjoy 4K HD streaming, gaming and more in high quality without buffering; Dual band Wi-Fi speeds up to 1.7 Gbps (2.4 GHz / 450 Mbps) + (5 GHz / 1300 Mbps); MU MIMO (Multi User Multiple Input Multiple Output) provides Wi-Fi to multiple devices at once, at the same high speed",
+        "ratings": 4.0,
+        "images": [
+            {
+                "public_id": "products/linksys_ac1900_smart_router_ka29hz",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525258/products/linksys_ac1900_smart_router_ka29hz.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Linksys",
+        "stock": 198,
+        "numOfReviews": 238,
+        "reviews": []
+    },
+    {
+        "name": "Texas Instruments TI-Nspire CX II CAS Color Graphing Calculator with Student Software (PC/Mac)",
+        "price": "145.99",
+        "description": "Color Screen. The screen size is 320 x 240 pixels (3.5 inches diagonal) and the screen resolution is 125 DPI; 16-bit color; Rechargeable battery included. Can last up to two weeks on a single charge; Handheld-Software Bundle. Includes the TI-Inspire CX Student Software delivering enhanced graphing capabilities and other functionality; Thin Design and lightweight with easy touchpad navigation. Quick alpha keys; Six different graph styles and 15 colors to select from for differentiating the look of each graph drawn",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/ti-nspire_calculator_ks8s2g",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525260/products/ti-nspire_calculator_ks8s2g.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Texas Instruments",
+        "stock": 329,
+        "numOfReviews": 547,
+        "reviews": []
+    },
+    {
+        "name": "JBL Flip 4 Waterproof Portable Bluetooth Speaker - Ocean Blue",
+        "price": "79.95",
+        "description": "Wireless Bluetooth Streaming; 12 hours of playtime. Charging time (hrs) 3.5; IPX7 Waterproof; Take Crystal Clear Calls with the Speakerphone; Connect Multiple Speakers with JBL Connect+; Power Source Type: Battery Powered. Output power (W) 2 x 8",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "jbl_flip_oceanblue_bluetooth_speaker_n6ifhg",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525257/products/jbl_flip_oceanblue_bluetooth_speaker_n6ifhg.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Adidas",
+        "stock": 78,
+        "numOfReviews": 231,
+        "reviews": []
+    },
+    {
+        "name": "Philips Norelco MG3750 Multigroom All-In-One Series 3000, 13 attachment trimmer",
+        "price": "19.95",
+        "description": "13 attachments for all of your grooming needs: Full size steel trimmer, a steel precision trimmer, a nose and ear hair trimmer, 3 hair trimming guards, 3 beard trimming guards, a stubble guard, an accessory travel storage bag, and a cleaning brush. Unlike competition, no oil needed to maintain high quality performance Blades and Guards are easy to detach and rinse; Maximum precision with DualCut technology, which includes 2x more self-sharpening blades. The steel blades sharpen themselves as they work, resulting in blades that remain as sharp as day 1 after 2 years of use; Best selling trimmer from the #1 trimmer brand*; Unlike competition, no oil needed to maintain high quality performance; All Hair Types; The Blade is made out of Metal; The MG3750 is the model number indicated on the packaging, it is part of the Multigroom 3000 series",
+        "ratings": 4.0,
+        "images": [
+            {
+                "public_id": "products/philipsShp1900_hphones_l2ilyv",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525259/products/philipsShp1900_hphones_l2ilyv.jpg"
+            }
+        ],
+        "category": "Health",
+        "seller": "Philips",
+        "stock": 395,
+        "numOfReviews": 482,
+        "reviews": []
+    },
+    {
+        "name": "Hempz Natural Triple Moisture Herbal Whipped Body Cream with 100% Pure Hemp Seed Oil for 24-Hour Hydration - Moisturizing Vegan Skin Lotion with Yangu Oil, Peach and Grapefruit - Enriched Moisturizer",
+        "price": "14.95",
+        "description": "Enriched, Natural Oils: This whipped body lotion possesses both Yangu oil and pure, natural hemp seed oil, which are rich in antioxidants and fatty acids. Skin will retain supple moisture and firmness, with reduced inflammation and oiliness; Nourishing Ingredients for Your Best Skin: Dry, mature skin will be hydrated and conditioned to renew and revive its healthy radiance with Apple Fruit extract. Cogon Grass extract nourishes skin with its potassium, vitamin and mineral properties; Light and Airy Fragrance: Peach and grapefruit are infused in our luxurious skin creme to provide a sweet, calming scent that will last all day. There are no harsh chemicals, so the aroma is not too heavy, and it will not leave behind residue; Ideal Skin Protection: In order to protect your skin from natural and environmentally triggered oxidants, our moisturizers have Vitamins A, C, and E. With our exclusive, all-day triple moisture complex formula, your skin will be healthy and bright; All of the Good, None of the Bad: In addition to the deeply conditioning oils and extracts, this body lotion is 100% Vegan. It contains no parabens, gluten, and it is THC-free, so you can be sure your skin is getting only what it needs.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "products/hempz_body_cream_qubl4h",
+                "url": "https://res.cloudinary.com/boresism/image/upload/v1620525257/products/hempz_body_cream_qubl4h.jpg"
+            }
+        ],
+        "category": "Health",
+        "seller": "Hempz",
+        "stock": 103,
+        "numOfReviews": 345,
         "reviews": []
     }
 ]
