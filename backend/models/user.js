@@ -1,18 +1,18 @@
 const mongoose = require('mongoose')
 const validator = require('validator')
 const bcrypt = require('bcryptjs')
-const jwt = require ('jsonwebToken')
+const jwt = require('jsonwebtoken')
 const crypto = require('crypto')
 
 const userSchema = new mongoose.Schema({
-    name:{
+    name: {
         type: String,
         required: [true, 'Please enter your name'],
         maxLength: [30, 'Your name cannot be longer than 30 characters']
     },
     email: {
         type: String,
-        required:[true, 'Please enter your email'],
+        required: [true, 'Please enter your email'],
         unique: true,
         validate: [validator.isEmail, 'Please enter a valid email address']
     },
@@ -27,7 +27,7 @@ const userSchema = new mongoose.Schema({
             type: String,
             reqiored: true
         },
-        url :{
+        url: {
             type: String,
             required: true
         }
@@ -42,13 +42,13 @@ const userSchema = new mongoose.Schema({
     },
     resetPasswordToken: String,
     resetPasswordExpire: Date
-    
+
 })
 
 // Encrypting password before saving user
 userSchema.pre('save', async function (next) {
     //checks if the password is modified
-    if(!this.isModified('password')){
+    if (!this.isModified('password')) {
         next()
     }
 
@@ -57,14 +57,14 @@ userSchema.pre('save', async function (next) {
 })
 
 // Compare user password
-userSchema.methods.comparePassword = async function (enteredPassword){
+userSchema.methods.comparePassword = async function (enteredPassword) {
     return await bcrypt.compare(enteredPassword, this.password)
 }
 
 // Return JWT token
 userSchema.methods.getJwToken = function () {
     // stores the user id as the payload for the token
-    return jwt.sign({ id: this._id}, process.env.JWT_SECRET, {
+    return jwt.sign({ id: this._id }, process.env.JWT_SECRET, {
         expiresIn: process.env.JWT_EXPIRES_TIME
     })
 }
