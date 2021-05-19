@@ -10,6 +10,7 @@ import MetaData from '../layout/MetaData'
 import { getProductDetails, clearErrors, newReview } from '../../actions/productActions'
 import { addItemToCart } from '../../actions/cartActions'
 import { NEW_REVIEW_RESET } from '../../constants/productConstants'
+import ListReviews from '../../components/review/ListReview'
 
 
 const ProductDetails = ({ match }) => {
@@ -217,6 +218,10 @@ const ProductDetails = ({ match }) => {
                             </div>
                         </div>
                     </div>
+
+                    {product.reviews && product.reviews.length > 0 && (
+                        <ListReviews reviews={product.reviews}/>
+                    )}
                 </Fragment>
             )}
 
