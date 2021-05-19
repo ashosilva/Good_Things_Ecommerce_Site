@@ -19,7 +19,7 @@ import OrderSuccess from './components/cart/OrderSuccess'
 
 // Order Imports
 import ListOrders from './components/order/ListOrders'
-// import OrderDetails from './components/order/OrderDetails'
+import OrderDetails from './components/order/OrderDetails'
 
 // Auth/User imports
 import Login from './components/user/Login'
@@ -99,7 +99,7 @@ function App() {
 
 
           <ProtectedRoute path="/orders/me" component={ListOrders} exact />
-          {/* <ProtectedRoute path="/order/:id" component={OrderDetails} exact /> */}
+          <ProtectedRoute path="/order/:id" component={OrderDetails} exact />
 
         </div>
         <ProtectedRoute exact path="/dashboard" isAdmin={true} component={Dashboard} />
