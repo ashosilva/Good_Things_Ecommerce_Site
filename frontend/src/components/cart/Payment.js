@@ -6,6 +6,7 @@ import CheckOutSteps from './CheckOutSteps'
 import { useAlert } from 'react-alert'
 import { useDispatch, useSelector } from 'react-redux'
 import { createOrder, clearErrors } from '../../actions/orderActions'
+import { removeItemFromCart } from '../../actions/cartActions'
 
 import { useStripe, useElements, CardNumberElement, CardExpiryElement, CardCvcElement } from '@stripe/react-stripe-js'
 
@@ -59,6 +60,10 @@ const Payment = ({ history }) => {
         amount: Math.round(orderInfo.totalPrice * 100)
     }
 
+    const removeCartItemHandler = (id) => {
+        dispatch(removeItemFromCart(id))
+    }
+
     const submitHandler = async (e) => {
         e.preventDefault();
 
@@ -109,6 +114,9 @@ const Payment = ({ history }) => {
                     dispatch(createOrder(order))
 
                     history.push('/success')
+
+                    cartItems.map(item => (removeCartItemHandler(item.product)))
+
                 } else {
                     alert.error('There is some issue while payment processing')
                 }
